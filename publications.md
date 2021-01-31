@@ -9,6 +9,7 @@ output:
 ---
 ## [Google Scholar](https://scholar.google.com/citations?user=7LPtqEsAAAAJ&hl=en)
 
+
 **Tunable ferromagnetism at non-integer filling of a moiré superlattice**  
 Guorui Chen\*, Aaron L. Sharpe\*, Eli J. Fox\*, Shaoxin Wang, Bosai Lyu, Lili Jiang, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Michael F. Crommie, M. A. Kastner, Zhiwen Shi, David Goldhaber-Gordon, Yuanbo Zhang, and Feng Wang  
 arXiv:2012.10075  
