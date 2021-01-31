@@ -3,9 +3,6 @@ layout: default
 title: "Publications"
 permalink: "/publications/"
 order: 3
-output:
-  html_document: default
-  pdf_document: default
 ---
 ## [Google Scholar](https://scholar.google.com/citations?user=7LPtqEsAAAAJ&hl=en)
 
