@@ -32,7 +32,7 @@ minima:
   skin: dark
 
 # Build settings
-theme: minima
+remote_theme: "jekyll/minima@2.5.1"
 plugins:
   - jekyll-feed
 
