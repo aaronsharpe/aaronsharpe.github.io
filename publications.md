@@ -9,6 +9,11 @@ output:
 ---
 ## [Google Scholar](https://scholar.google.com/citations?user=7LPtqEsAAAAJ&hl=en)
 
+**Correlations in moiré heterostructures**  
+Thesis, Stanford University (2020)  
+[PDF]({{ site.url }}/papers/thesis-augmented.pdf) &nbsp; &nbsp;
+[Stanford](https://searchworks.stanford.edu/view/13753843)
+
 **Tunable ferromagnetism at non-integer filling of a moiré superlattice**  
 Guorui Chen\*, Aaron L. Sharpe\*, Eli J. Fox\*, Shaoxin Wang, Bosai Lyu, Lili Jiang, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Michael F. Crommie, M. A. Kastner, Zhiwen Shi, David Goldhaber-Gordon, Yuanbo Zhang, and Feng Wang  
 arXiv:2012.10075  
