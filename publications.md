@@ -23,6 +23,7 @@ arXiv:2012.10075
 **Tunable correlated Chern insulator and ferromagnetism in a moiré superlattice**  
 Guorui Chen, Aaron L. Sharpe, Eli J. Fox, Ya-Hui Zhang, Shaoxin Wang, Lili Jiang,  Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Zhiwen Shi, T. Senthil, David Goldhaber-Gordon, Yuanbo Zhang, and Feng Wang  
 Nature 579, 56-61 (2020)  
+[PDF](https://rdcu.be/ceyMw) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/1905.06535) &nbsp; &nbsp;
 [Nature](https://www.nature.com/articles/s41586-020-2049-7)
 
@@ -46,6 +47,7 @@ Guorui Chen\*, Aaron L. Sharpe\*, Patrick Gallagher, Ilan T. Rosen, Eli J. Fox, 
 Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Jeil Jung, Zhiwen Shi, David Goldhaber-Gordon,
 Yuanbo Zhang, and Feng Wang  
 Nature 572, 215-219 (2019)  
+[PDF](https://rdcu.be/ceyL9) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/1901.04621) &nbsp; &nbsp;
 [Nature](https://www.nature.com/articles/s41586-019-1393-y)
 
