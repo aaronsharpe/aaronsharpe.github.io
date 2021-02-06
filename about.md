@@ -8,17 +8,16 @@ output:
   pdf_document: default
 ---
 
-<style type="table/css">
-  p {
-    border: none;
-  }
+![image](/img/dsc_0032b.jpg)
+
+**Current Position:**  
+<style>
+  table, tr {border:hidden;}
+  td, th {border:hidden;}
 </style>
 
 
-![image](/img/dsc_0032b.jpg){:.align-center}
-
-**Current Position:**  
-<table border="0" cellpadding="0" cellspacing="0" style="margin-top:-15px;">
+<table style="border:hidden; margin-top:-15px;">
   <tr>
     <th>2020-</th>
     <th>Truman Fellow, Sandia National Lab</th>
