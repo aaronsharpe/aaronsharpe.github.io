@@ -8,7 +8,7 @@ output:
   pdf_document: default
 ---
 
-<img src="{{ site.baseurl }}/img/dsc_0032b.jpg" align="right">
+<img src="{{ site.baseurl }}/img/dsc_0032b.jpg" style="float:right">
 
 **Current Position:**  
 &nbsp; &nbsp; &nbsp; &nbsp; Truman Fellow, Sandia National Lab
