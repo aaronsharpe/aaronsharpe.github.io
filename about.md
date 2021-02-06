@@ -8,7 +8,7 @@ output:
   pdf_document: default
 ---
 
-![me]({ site.baseurl }}/img/dsc_0032b.jpg)
+![me](/img/dsc_0032b.jpg)
 
 **Current Position:**  
 <ul style="list-style-type:none;margin-top:-15px;">
