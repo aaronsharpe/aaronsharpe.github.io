@@ -8,11 +8,11 @@ output:
   pdf_document: default
 ---
 
-->![image alt](/img/dsc_0032b.jpg)<-
+  [image alt](/img/dsc_0032b.jpg){: .center-image }
 
 **Current Position:**  
 <ul style="list-style-type:none;margin-top:-15px;">
-  <li>2020- &nbsp; &nbsp;Truman Fellow, Sandia National Lab</li>
+  <li>2020- &nbsp; &nbsp; &nbsp; Truman Fellow, Sandia National Lab</li>
 </ul>  
 
 **Education:**  
@@ -23,8 +23,8 @@ output:
 
 **Former Positions:**  
 <ul style="list-style-type:none;margin-top:-15px;">
-  <li>2013  &nbsp; &nbsp; SURF Student, <a href="https://microdevices.jpl.nasa.gov/"> Microdevices Laboratory</a>, NASA JPL</li>
+  <li>2013  &nbsp; &nbsp; &nbsp; SURF Student, <a href="https://microdevices.jpl.nasa.gov/"> Microdevices Laboratory</a>, NASA JPL</li>
   <li>2012-14 &nbsp; Undergraduate Researcher, <a href="https://www.brown.edu/research/labs/mittleman/"> Mittleman Group</a>, Rice University</li>
-  <li>2012  &nbsp; &nbsp; NSF REU Student, <a href="https://jila.colorado.edu/jin/"> Jin Group</a>, University of Colorado at Boulder</li>
-  <li>2011  &nbsp; &nbsp; NSF REU Student, <a href="https://nagelgroup.uchicago.edu/Nagel-Group/index.html"> Nagel Group</a>, University of Chicago </li>
+  <li>2012  &nbsp; &nbsp; &nbsp; NSF REU Student, <a href="https://jila.colorado.edu/jin/"> Jin Group</a>, University of Colorado at Boulder</li>
+  <li>2011  &nbsp; &nbsp; &nbsp; NSF REU Student, <a href="https://nagelgroup.uchicago.edu/Nagel-Group/index.html"> Nagel Group</a>, University of Chicago </li>
 </ul>
