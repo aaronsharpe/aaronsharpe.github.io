@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 title: "About"
 permalink: "/about/"
 order: 2
@@ -7,15 +7,18 @@ output:
   html_document: default
   pdf_document: default
 ---
-
-![image](/img/dsc_0032b.jpg)
-
-**Current Position:**  
 <style>
-  table, tr {border:hidden;}
-  td, th {border:hidden;}
+  table, tbody, td, tr {border: none !important}
+  .center-image
+  {
+    margin: 0 auto;
+    display: block;
+  }
 </style>
 
+![image](/img/dsc_0032b.jpg){: .center-image }
+
+**Current Position:**  
 
 <table style="border:hidden; margin-top:-15px;">
   <tr>
@@ -37,10 +40,3 @@ output:
   <li>2012  &nbsp; &nbsp; &nbsp; NSF REU Student, <a href="https://jila.colorado.edu/jin/"> Jin Group</a>, University of Colorado at Boulder</li>
   <li>2011  &nbsp; &nbsp; &nbsp; NSF REU Student, <a href="https://nagelgroup.uchicago.edu/Nagel-Group/index.html"> Nagel Group</a>, University of Chicago </li>
 </ul>
-
-
-| Item | Description | Price |
-| --- | --- | ---: |
-| item1 | item1 description | 1.00 |
-| item2 | item2 description | 100.00 |
-{:.table-striped}
