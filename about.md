@@ -8,12 +8,15 @@ output:
   pdf_document: default
 ---
 
-  [image alt](/img/dsc_0032b.jpg){: .center-image }
+[image](/img/dsc_0032b.jpg){: .align-center}
 
 **Current Position:**  
-<ul style="list-style-type:none;margin-top:-15px;">
-  <li>2020- &nbsp; &nbsp; &nbsp; Truman Fellow, Sandia National Lab</li>
-</ul>  
+<table style="margin-top:-15px;">
+  <tr>
+    <th>2020-</th>
+    <th>Truman Fellow, Sandia National Lab</th>
+  </tr>
+</table>  
 
 **Education:**  
 <ul style="list-style-type:none;margin-top:-15px;">
