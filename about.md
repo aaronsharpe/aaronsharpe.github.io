@@ -8,10 +8,10 @@ output:
   pdf_document: default
 ---
 
-[image](/img/dsc_0032b.jpg){: .align-center}
+[image](/img/dsc_0032b.jpg)
 
 **Current Position:**  
-<table style="margin-top:-15px;">
+<table border="0" cellpadding="0" cellspacing="0" style="margin-top:-15px;">
   <tr>
     <th>2020-</th>
     <th>Truman Fellow, Sandia National Lab</th>
