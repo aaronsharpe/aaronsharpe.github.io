@@ -8,7 +8,7 @@ output:
   pdf_document: default
 ---
 <style>
-  table, tbody, td, tr {border: none !important}
+  table, tbody, td, tr {border: none;}
   .center-image
   {
     margin: 0 auto;
@@ -20,7 +20,7 @@ output:
 
 **Current Position:**  
 
-<table style="border:hidden; margin-top:-15px;">
+<table cellspacing="0" cellpadding="0" style="margin-top:-15px;">
   <tr>
     <th>2020-</th>
     <th>Truman Fellow, Sandia National Lab</th>
