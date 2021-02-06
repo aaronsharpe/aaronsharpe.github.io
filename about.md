@@ -37,3 +37,10 @@ output:
   <li>2012  &nbsp; &nbsp; &nbsp; NSF REU Student, <a href="https://jila.colorado.edu/jin/"> Jin Group</a>, University of Colorado at Boulder</li>
   <li>2011  &nbsp; &nbsp; &nbsp; NSF REU Student, <a href="https://nagelgroup.uchicago.edu/Nagel-Group/index.html"> Nagel Group</a>, University of Chicago </li>
 </ul>
+
+
+| Item | Description | Price |
+| --- | --- | ---: |
+| item1 | item1 description | 1.00 |
+| item2 | item2 description | 100.00 |
+{:.table-striped}
