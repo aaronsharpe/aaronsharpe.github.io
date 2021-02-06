@@ -8,7 +8,14 @@ output:
   pdf_document: default
 ---
 
-![image](/img/dsc_0032b.jpg){: .align-center}
+<style type="table/css">
+  p {
+    border: none;
+  }
+</style>
+
+
+![image](/img/dsc_0032b.jpg){:.align-center}
 
 **Current Position:**  
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:-15px;">
