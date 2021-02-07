@@ -8,11 +8,6 @@ output:
   pdf_document: default
 ---
 <style>
-  .tab 
-  {
-    border:none !important;
-    border-collapse: collapse;
-  }
   .center-image
   {
     margin: 0 auto;
@@ -24,7 +19,7 @@ output:
 
 **Current Position:**  
 
-<table style="border-collapse: collapse; border: none; margin-top: -15px;">
+<table style="border-collapse: collapse; border: none; margin-top: -20px;">
   <tr style="border: none;">
     <td style="border: none;">2020-</td>
     <td style="border: none;">Truman Fellow, Sandia National Lab</td>
@@ -32,15 +27,33 @@ output:
 </table>  
 
 **Education:**  
-<ul style="list-style-type:none;margin-top:-15px;">
-  <li>2014-20 &nbsp; Ph.D in Applied Physics from Stanford University, <a href="https://ggg.stanford.edu/"> Goldhaber-Gordon Group</a></li>
-  <li>2010-14 &nbsp; B.S. in Physics from Rice University</li>
-</ul>  
+<table style="border-collapse: collapse; border: none; margin-top: -20px;">
+  <tr style="border: none;">
+    <td style="border: none;">2014-20</td>
+    <td style="border: none;"> Ph.D in Applied Physics from Stanford University, <a href="https://ggg.stanford.edu/"> Goldhaber-Gordon Group</a></li></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;">2010-14</td>
+    <td style="border: none;"> B.S. in Physics from Rice University</td>
+  </tr>
+</table>  
 
 **Former Positions:**  
-<ul style="list-style-type:none;margin-top:-15px;">
-  <li>2013  &nbsp; &nbsp; &nbsp; SURF Student, <a href="https://microdevices.jpl.nasa.gov/"> Microdevices Laboratory</a>, NASA JPL</li>
-  <li>2012-14 &nbsp; Undergraduate Researcher, <a href="https://www.brown.edu/research/labs/mittleman/"> Mittleman Group</a>, Rice University</li>
-  <li>2012  &nbsp; &nbsp; &nbsp; NSF REU Student, <a href="https://jila.colorado.edu/jin/"> Jin Group</a>, University of Colorado at Boulder</li>
-  <li>2011  &nbsp; &nbsp; &nbsp; NSF REU Student, <a href="https://nagelgroup.uchicago.edu/Nagel-Group/index.html"> Nagel Group</a>, University of Chicago </li>
-</ul>
+<table style="border-collapse: collapse; border: none; margin-top: -20px;">
+  <tr style="border: none;">
+    <td style="border: none;">2013</td>
+    <td style="border: none;"> SURF Student, <a href="https://microdevices.jpl.nasa.gov/"> Microdevices Laboratory</a>, NASA JPL</li></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;">2012-14</td>
+    <td style="border: none;"> Undergraduate Researcher, <a href="https://www.brown.edu/research/labs/mittleman/"> Mittleman Group</a>, Rice University</li></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;">2012</td>
+    <td style="border: none;"> NSF REU Student, <a href="https://jila.colorado.edu/jin/"> Jin Group</a>, University of Colorado at Boulder</li></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;">2011</td>
+    <td style="border: none;"> NSF REU Student, <a href="https://nagelgroup.uchicago.edu/Nagel-Group/index.html"> Nagel Group</a>, University of Chicago</td>
+  </tr>
+</table>  
