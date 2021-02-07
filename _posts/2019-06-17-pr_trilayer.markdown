@@ -3,6 +3,7 @@ layout: post
 title:  "Press release: A Graphene Superconductor That Plays More Than One Tune - Berkeley Lab News"
 date:   2019-06-17
 categories: press_release
+external_url: https://newscenter.lbl.gov/2019/07/17/a-graphene-superconductor-that-plays-more-than-one-tune/
 ---
 
 https://newscenter.lbl.gov/2019/07/17/a-graphene-superconductor-that-plays-more-than-one-tune/
