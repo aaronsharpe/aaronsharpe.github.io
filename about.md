@@ -10,6 +10,7 @@ output:
 <style>
   .tab 
   {
+    border:none !important;
     border-collapse: collapse;
   }
   .center-image
@@ -23,10 +24,10 @@ output:
 
 **Current Position:**  
 
-<table class="tab">
-  <tr>
-    <td class="no-boarder">2020-</td>
-    <td class="no-boarder">Truman Fellow, Sandia National Lab</td>
+<table style="border-collapse: collapse; border: none; margin-top: -15px;">
+  <tr style="border: none;">
+    <td style="border: none;">2020-</td>
+    <td style="border: none;">Truman Fellow, Sandia National Lab</td>
   </tr>
 </table>  
 
