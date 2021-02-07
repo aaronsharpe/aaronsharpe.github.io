@@ -8,9 +8,12 @@ output:
   pdf_document: default
 ---
 <style>
-  .noBoarder
-  {
-    border:none !important;
+  .mbtablestyle {
+        border-collapse: collapse;
+
+   > table, td, th {
+        border: 1px solid black;
+        }
   }
   .center-image
   {
@@ -22,6 +25,11 @@ output:
 ![image](/img/dsc_0032b.jpg){: .center-image }
 
 **Current Position:**  
+|     |     |
+| --- | --- |
+| item1 | item1 description |
+| item2 | item2 description |
+{:.mbtablestyle}
 
 <table cellspacing="0" cellpadding="0" style="margin-top:-15px;">
   <tr>
