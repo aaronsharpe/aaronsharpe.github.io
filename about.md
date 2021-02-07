@@ -8,12 +8,9 @@ output:
   pdf_document: default
 ---
 <style>
-  .mbtablestyle {
-        border-collapse: collapse;
-
-   > table, td, th {
-        border: none;
-        }
+  .tab 
+  {
+    border-collapse: collapse;
   }
   .center-image
   {
@@ -26,10 +23,10 @@ output:
 
 **Current Position:**  
 
-<table cellspacing="0" cellpadding="0" style="margin-top:-15px;">
+<table class="tab">
   <tr>
-    <td class="noBoarder">2020-</td>
-    <td class="noBoarder">Truman Fellow, Sandia National Lab</td>
+    <td class="no-boarder">2020-</td>
+    <td class="no-boarder">Truman Fellow, Sandia National Lab</td>
   </tr>
 </table>  
 
