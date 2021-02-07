@@ -32,3 +32,24 @@ Stanford Quantum Initative Seminar Series, Stanford University (02/13/2019)
 **Monte Carlo simulation of ballistic electron transport**  
 Gear up for research computing conference, Stanford University (02/26/2019)  
 [PDF]({{ site.url }}/presentations/AS_lightning.pdf) &nbsp; &nbsp;
+
+**Collimated Ballistic Quasiparticle Transport in a Graphene/hBN Superlattice**  
+APS March Meeting, Los Angeles, CA (03/16/2018)  
+[PDF]({{ site.url }}/presentations/march_meeting_2018.pdf) &nbsp; &nbsp;
+
+**Exploring Proximity-Induced Ferromagnetism in Graphene/Cr2Ge2Te6 Heterostructures**  
+APS March Meeting, New Orleans, LA (03/15/2017)  
+[PDF]({{ site.url }}/presentations/march_meeting_2017.pdf) &nbsp; &nbsp;
+
+**Magnetotransport measurements in graphene/ferromagnetic insulator heterostructures**  
+APS March Meeting, Baltimore, MD (03/14/2016)  
+[PDF]({{ site.url }}/presentations/march_meeting_2016.pdf) &nbsp; &nbsp;
+
+**Characterization of Quantum Cascade Laser Wafers**  
+Mellon Mays Undergraduate
+Fellowship Southeastern Regional Conference, Atlanda, GA (11/2013)  
+[PDF]({{ site.url }}/presentations/qcl.pdf) &nbsp; &nbsp;
+
+**Life underneath a Leidenfrost Drops**  
+APS March Meeting, Boston, MA (03/02/2012)  
+[PDF]({{ site.url }}/presentations/march_meeting_2012.pdf) &nbsp; &nbsp;
