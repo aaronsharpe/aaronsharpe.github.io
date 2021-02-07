@@ -17,8 +17,8 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
-          {% if page.external_url %}
-            <a class="post-link" href="{{ page.external_url }}">
+          {% if post.external_url %}
+            <a class="post-link" href="{{ post.external_url }}">
               {{ post.title | escape }}
             </a>
           {% else %}
