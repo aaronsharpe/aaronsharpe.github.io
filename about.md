@@ -12,7 +12,7 @@ output:
         border-collapse: collapse;
 
    > table, td, th {
-        border: 1px solid black;
+        border: none;
         }
   }
   .center-image
@@ -25,7 +25,7 @@ output:
 ![image](/img/dsc_0032b.jpg){: .center-image }
 
 **Current Position:**  
-|     |     |
+|   asdf  |   asdf  |
 | --- | --- |
 | item1 | item1 description |
 | item2 | item2 description |
