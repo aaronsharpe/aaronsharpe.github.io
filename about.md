@@ -25,18 +25,11 @@ output:
 ![image](/img/dsc_0032b.jpg){: .center-image }
 
 **Current Position:**  
-|   asdf  |   asdf  |
-| --- | --- |
-| item1 | item1 description |
-| item2 | item2 description |
-{:.mbtablestyle}
 
 <table cellspacing="0" cellpadding="0" style="margin-top:-15px;">
   <tr>
-    <th>2020-</th>
-    <th>Truman Fellow, Sandia National Lab</th>
-    <td class="noBoarder">
-    </td>
+    <td class="noBoarder">2020-</td>
+    <td class="noBoarder">Truman Fellow, Sandia National Lab</td>
   </tr>
 </table>  
 
