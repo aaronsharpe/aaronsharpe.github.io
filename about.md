@@ -8,7 +8,10 @@ output:
   pdf_document: default
 ---
 <style>
-  table, tbody, td, tr {border: none;}
+  .noBoarder
+  {
+    border:none !important;
+  }
   .center-image
   {
     margin: 0 auto;
@@ -24,6 +27,8 @@ output:
   <tr>
     <th>2020-</th>
     <th>Truman Fellow, Sandia National Lab</th>
+    <td class="noBoarder">
+    </td>
   </tr>
 </table>  
 
