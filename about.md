@@ -19,7 +19,7 @@ output:
 
 **Current Position:**  
 
-<table style="border-collapse: collapse; border: none; margin-top: -20px; background-color:rgba(0, 0, 0, 0);">
+<table style="border-collapse: collapse; border: none; margin-top: -20px; background-color: none;">
   <tr style="border: none;">
     <td style="border: none;">2020-</td>
     <td style="border: none;">Truman Fellow, Sandia National Lab</td>
@@ -27,7 +27,7 @@ output:
 </table>  
 
 **Education:**  
-<table style="border-collapse: collapse; border: none; margin-top: -20px; background-color:rgba(0, 0, 0, 0);">
+<table style="border-collapse: collapse; border: none; margin-top: -20px; background-color: none;">
   <tr style="border: none;">
     <td style="border: none;">2014-20</td>
     <td style="border: none;"> Ph.D in Applied Physics, Stanford University, <a href="https://ggg.stanford.edu/"> Goldhaber-Gordon Group</a></td>
@@ -39,7 +39,7 @@ output:
 </table>  
 
 **Former Positions:**  
-<table style="border-collapse: collapse; border: none; margin-top: -20px; background-color:rgba(0, 0, 0, 0);">
+<table style="border-collapse: collapse; border: none; margin-top: -20px; background-color: none;">
   <tr style="border: none;">
     <td style="border: none;">2013</td>
     <td style="border: none;"> SURF Student, <a href="https://microdevices.jpl.nasa.gov/"> Microdevices Laboratory</a>, NASA JPL</td>
