@@ -41,11 +41,11 @@ output:
   </colgroup>
 
   <tbody>
-    <tr style="border: none; ">
+    <tr style="border: none; background:transparent;">
       <td style="border: none;">2014-20</td>
       <td style="border: none;"> Ph.D in Applied Physics, Stanford University, <a href="https://ggg.stanford.edu/"> Goldhaber-Gordon Group</a></td>
     </tr>
-    <tr style="border: none;">
+    <tr style="border: none; background:transparent;">
       <td style="border: none;">2010-14</td>
       <td style="border: none;"> B.S. in Physics, Rice University</td>
     </tr>
