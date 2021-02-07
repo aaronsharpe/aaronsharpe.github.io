@@ -34,7 +34,7 @@ output:
 </table>  
 
 **Education:**  
-<table style="background: none; width: 100%; border-collapse: collapse; border: none; margin-top: -20px;">
+<table style="background: transparent; width: 100%; border-collapse: collapse; border: none; margin-top: -20px;">
   <colgroup>
     <col span="1" style="width: 15;">
     <col span="1" style="width: 85%;">
@@ -53,7 +53,7 @@ output:
 </table>  
 
 **Former Positions:**  
-<table style="width: 100%; border-collapse: collapse; border: none; margin-top: -20px;">
+<table style="background-color: transparent; width: 100%; border-collapse: collapse; border: none; margin-top: -20px;">
   <colgroup>
     <col span="1" style="width: 15;">
     <col span="1" style="width: 85%;">
