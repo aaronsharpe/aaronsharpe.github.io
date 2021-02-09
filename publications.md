@@ -9,6 +9,12 @@ output:
 ---
 ## [Google Scholar](https://scholar.google.com/citations?user=7LPtqEsAAAAJ&hl=en)
 
+**Evidence of orbital ferromagnetism in twistedbilayer graphene aligned to hexagonal boronnitride**  
+Aaron L. Sharpe, Eli J. Fox, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Takashi Taniguchi, M. A. Kastner, and David Goldhaber-Gordon   
+arXiv:2102.04039  
+[PDF]({{ site.url }}/papers/2102.04039.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2102.04039) &nbsp; &nbsp;
+
 **Correlations in moiré heterostructures**  
 Thesis, Stanford University (2020)  
 [PDF]({{ site.url }}/papers/thesis-augmented.pdf) &nbsp; &nbsp;

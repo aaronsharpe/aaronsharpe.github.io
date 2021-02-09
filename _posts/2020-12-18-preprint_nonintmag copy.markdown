@@ -5,8 +5,4 @@ date:   2020-12-18
 categories: preprint
 ---
 
-
-
-
-
 arXiv: [https://arxiv.org/abs/2012.10075](https://arxiv.org/abs/2012.10075)
