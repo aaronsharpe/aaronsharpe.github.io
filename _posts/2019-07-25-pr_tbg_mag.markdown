@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Press release: Emergent ferromagnetism near three-quarters filling in twisted bilayer graphene"
+date:   2019-07-25
+categories: press_release
+---
+Here are two press releases from Stanford regarding our recent publication: [Emergent ferromagnetism near three-quarters filling in twisted bilayer graphene]((https://science.sciencemag.org/content/365/6453/605)).
+
+Thanks to Stanford libraries and the Stanford Digital Repository. They host a number of great resources and helped us [post all of the data for our publication](https://purl.stanford.edu/bg095cp1548).
+
+[Stanford physicists discover new quantum trick for graphene: magnetism](https://news.stanford.edu/2019/07/25/new-quantum-trick-graphene-magnetism/)  
+
+[SDR Deposit of the Week: Tunable properties of graphene](https://library.stanford.edu/blogs/digital-library-blog/2019/07/sdr-deposit-week-tunable-properties-graphene)

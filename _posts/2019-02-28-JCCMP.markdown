@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New correlated phenomena in magic-angle twisted bilayer graphene/s"
+date:   2019-02-28
+categories: Article
+---
+This [recent article from the Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/?p=3541) mentions our recent preprint [arXiv:1901.03520](https://arxiv.org/abs/1901.03520), a [great paper by Matt Yankowitz et al] (http://science.sciencemag.org/content/early/2019/01/25/science.aav1910), and an [incredibly interesting talk Dmitri Efetov](http://online.kitp.ucsb.edu/online/bands_m19/efetov/) gave as part of the [moiré flat bands program](https://online.kitp.ucsb.edu/online/bands_m19/) hosted by KITP. I was lucky enough to attend this program and it is definitely worth checking out. 
+
+[https://www.condmatjclub.org/?p=3541](https://www.condmatjclub.org/?p=3541)
