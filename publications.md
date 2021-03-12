@@ -11,7 +11,7 @@ output:
 
 **Super-geometric electron focusing on the hexagonal Fermi surface of PdCoO2**  
 Maja D. Bachmann\*, Aaron L. Sharpe\*, Arthur W. Barnard, Carsten Putzke, Thomas Scaffidi, Nabhanila Nandi, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Andrew P. Mackenzie, and Philip J. W. Moll  
-arXiv:2103.01332
+arXiv:2103.01332  
 [PDF]({{ site.url }}/papers/2103.01332.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2103.01332) &nbsp; &nbsp;
 
