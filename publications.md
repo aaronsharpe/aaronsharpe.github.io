@@ -15,7 +15,7 @@ arXiv:2103.01332
 [PDF]({{ site.url }}/papers/2103.01332.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2103.01332) &nbsp; &nbsp;
 
-**Evidence of orbital ferromagnetism in twistedbilayer graphene aligned to hexagonal boronnitride**  
+**Evidence of orbital ferromagnetism in twisted bilayer graphene aligned to hexagonal boron nitride**  
 Aaron L. Sharpe, Eli J. Fox, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Takashi Taniguchi, M. A. Kastner, and David Goldhaber-Gordon   
 arXiv:2102.04039  
 [PDF]({{ site.url }}/papers/2102.04039.pdf) &nbsp; &nbsp;
