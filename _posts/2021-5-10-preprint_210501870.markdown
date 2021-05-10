@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Preprint: Directional ballistic transport in two-dimensional metal PdCoO2"
+title:  "Preprint: Unusual magnetotransport in twisted bilayer graphene"
 date:   2021-3-11
 categories: preprint
 ---
-A new preprint I was involved in came just came out([https://arxiv.org/abs/2105.01870](https://arxiv.org/abs/2105.01870)). Here we study a twisted bilayer device with an angle (1.38 degrees) quite far away from the magic angle (1.05 degrees). In this device, we do not observe correlated insulating states. However, we do observe superconductivity and extremely strange behavior in magnetotransport. We observe large magnetoresistance over a large range in density near half filling. We also see that the gaps between Landau levels split and bend in field/density. Interestingly, it seems that this can be entirely modeled using a simple tight-binding model of Hofstadter’s butterfly on an entirely different lattice (square) if one includes anisotropic hopping term, indicating that they are likely a manifestation of some more generic class of phenomena.
+A new preprint I was involved in came just came out ([https://arxiv.org/abs/2105.01870](https://arxiv.org/abs/2105.01870)). Here we study a twisted bilayer device with an angle (1.38 degrees) quite far away from the magic angle (1.05 degrees). In this device, we do not observe correlated insulating states. However, we do observe superconductivity and extremely strange behavior in magnetotransport. We observe large magnetoresistance over a large range in density near half filling. We also see that the gaps between Landau levels split and bend in field/density. Interestingly, it seems that this can be entirely modeled using a simple tight-binding model of Hofstadter’s butterfly on an entirely different lattice (square) if one includes anisotropic hopping term, indicating that they are likely a manifestation of some more generic class of phenomena.
