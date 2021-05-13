@@ -14,6 +14,7 @@ Joe Finney, Aaron L. Sharpe, Eli J. Fox, Kenji Watanabe, Takashi Taniguchi, Marc
 arXiv:2102.04039  
 [PDF]({{ site.url }}/papers/2105.01870.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2105.01870) &nbsp; &nbsp;
+[Data](https://github.com/spxtr/noblehierarch) &nbsp; &nbsp;
 
 **Super-geometric electron focusing on the hexagonal Fermi surface of PdCoO2**  
 Maja D. Bachmann\*, Aaron L. Sharpe\*, Arthur W. Barnard, Carsten Putzke, Thomas Scaffidi, Nabhanila Nandi, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Andrew P. Mackenzie, and Philip J. W. Moll  
@@ -26,6 +27,7 @@ Aaron L. Sharpe, Eli J. Fox, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Taka
 arXiv:2102.04039  
 [PDF]({{ site.url }}/papers/2102.04039.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2102.04039) &nbsp; &nbsp;
+[Data](https://purl.stanford.edu/dq349wz5558) &nbsp; &nbsp;
 
 **Correlations in moiré heterostructures**  
 Thesis, Stanford University (2020)  
@@ -39,7 +41,7 @@ arXiv:2012.10075
 [arXiv](https://arxiv.org/abs/2012.10075) &nbsp; &nbsp;
 
 **Tunable correlated Chern insulator and ferromagnetism in a moiré superlattice**  
-Guorui Chen, Aaron L. Sharpe, Eli J. Fox, Ya-Hui Zhang, Shaoxin Wang, Lili Jiang,  Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Zhiwen Shi, T. Senthil, David Goldhaber-Gordon, Yuanbo Zhang, and Feng Wang  
+Guorui Chen, Aaron L. Sharpe, Eli J. Fox, Ya-Hui Zhang, Shaoxin Wang, Lili Jiang, Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Zhiwen Shi, T. Senthil, David Goldhaber-Gordon, Yuanbo Zhang, and Feng Wang  
 Nature 579, 56-61 (2020)  
 [PDF](https://rdcu.be/ceyMw) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/1905.06535) &nbsp; &nbsp;
