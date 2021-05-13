@@ -13,8 +13,8 @@ output:
 Joe Finney, Aaron L. Sharpe, Eli J. Fox, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon  
 arXiv:2102.04039  
 [PDF]({{ site.url }}/papers/2105.01870.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2105.01870) &nbsp; &nbsp;
 [Data](https://github.com/spxtr/noblehierarch) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2105.01870) &nbsp; &nbsp;
 
 **Super-geometric electron focusing on the hexagonal Fermi surface of PdCoO2**  
 Maja D. Bachmann\*, Aaron L. Sharpe\*, Arthur W. Barnard, Carsten Putzke, Thomas Scaffidi, Nabhanila Nandi, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Andrew P. Mackenzie, and Philip J. W. Moll  
@@ -26,8 +26,8 @@ arXiv:2103.01332
 Aaron L. Sharpe, Eli J. Fox, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon  
 arXiv:2102.04039  
 [PDF]({{ site.url }}/papers/2102.04039.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2102.04039) &nbsp; &nbsp;
 [Data](https://purl.stanford.edu/dq349wz5558) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2102.04039) &nbsp; &nbsp;
 
 **Correlations in moiré heterostructures**  
 Thesis, Stanford University (2020)  
