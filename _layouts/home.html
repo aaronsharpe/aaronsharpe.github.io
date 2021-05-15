@@ -21,9 +21,7 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        <p style="text-align:justify">
-          {{ post.content }}
-        </p>
+        {{ post.content }}
         <hr style="width:20%;text-align:left;margin-left:0">
       </li>
       {%- endfor -%}
