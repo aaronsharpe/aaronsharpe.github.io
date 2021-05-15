@@ -15,8 +15,10 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody" style='text-align: justify;'>
-    {{ content }}
+  <div class="post-content e-content" itemprop="articleBody">
+    <p style="text-align: justify">
+      {{ content }}
+    </p>
   </div>
 
   {%- if site.disqus.shortname -%}
