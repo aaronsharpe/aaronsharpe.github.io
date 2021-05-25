@@ -2,7 +2,7 @@
 layout: default
 title: "Publications"
 permalink: "/publications/"
-order: 3
+order: 4
 output:
   html_document: default
   pdf_document: default
@@ -26,6 +26,7 @@ arXiv:2103.01332
 Aaron L. Sharpe, Eli J. Fox, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon  
 arXiv:2102.04039  
 [PDF]({{ site.url }}/papers/2102.04039.pdf) &nbsp; &nbsp;
+[Git](https://github.com/aaronsharpe/publication_archives/tree/main/evidence%20of%20orbital%20ferromagnetism%20in%20twisted%20bilayer%20graphene%20aligned%20to%20hexagonal%20boron%20nitride) &nbsp; &nbsp;
 [Data](https://purl.stanford.edu/dq349wz5558) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2102.04039) &nbsp; &nbsp;
 
@@ -60,6 +61,7 @@ Aaron L. Sharpe\*, Eli J. Fox\*, Arthur W. Barnard, Joe Finney, Kenji Watanabe, 
 Science 365, 605-608 (2019)  
 [PDF](https://ggg.stanford.edu/10.1126/science.aaw3780) &nbsp; &nbsp;
 [Supplement]({{ site.url }}/papers/Sharpe_sm.pdf) &nbsp; &nbsp;
+[Git](https://github.com/aaronsharpe/publication_archives/tree/main/emergent%20ferromagnetism%20near%20three-quarters%20filling%20in%20twisted%20bilayer%20graphene) &nbsp; &nbsp;
 [Data](https://purl.stanford.edu/bg095cp1548) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/1901.03520) &nbsp; &nbsp;
 [Science](https://science.sciencemag.org/content/365/6453/605)

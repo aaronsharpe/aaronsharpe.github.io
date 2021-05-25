@@ -2,7 +2,7 @@
 layout: default
 title: "Contact"
 permalink: "/contact/"
-order: 5
+order: 6
 ---
 email: [aaronlsharpe@gmail.com](mailto:aaronlsharpe@gmail.com)
 
