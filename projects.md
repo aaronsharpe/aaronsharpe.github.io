@@ -2,7 +2,7 @@
 layout: default
 title: "Projects"
 permalink: "/projects/"
-order: 3
+order: 2
 output:
   html_document: default
   pdf_document: default

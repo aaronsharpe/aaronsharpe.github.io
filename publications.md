@@ -2,7 +2,7 @@
 layout: default
 title: "Publications"
 permalink: "/publications/"
-order: 4
+order: 3
 output:
   html_document: default
   pdf_document: default

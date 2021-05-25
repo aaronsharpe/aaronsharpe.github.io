@@ -2,7 +2,7 @@
 layout: about
 title: "About"
 permalink: "/about/"
-order: 2
+order: 5
 output:
   html_document: default
   pdf_document: default
