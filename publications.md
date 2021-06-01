@@ -24,11 +24,12 @@ arXiv:2103.01332
 
 **Evidence of orbital ferromagnetism in twisted bilayer graphene aligned to hexagonal boron nitride**  
 Aaron L. Sharpe, Eli J. Fox, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon  
-arXiv:2102.04039  
+Nano Lett. 21, 4299-4304 (2021)  
 [PDF]({{ site.url }}/papers/2102.04039.pdf) &nbsp; &nbsp;
 [Git](https://github.com/aaronsharpe/publication_archives/tree/main/evidence%20of%20orbital%20ferromagnetism%20in%20twisted%20bilayer%20graphene%20aligned%20to%20hexagonal%20boron%20nitride) &nbsp; &nbsp;
 [Data](https://purl.stanford.edu/dq349wz5558) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2102.04039) &nbsp; &nbsp;
+[Nano Lett.](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.1c00696) &nbsp; &nbsp;
 
 **Correlations in moiré heterostructures**  
 Thesis, Stanford University (2020)  
