@@ -8,9 +8,16 @@ output:
   pdf_document: default
 ---
 
+# Data and devices
+
 **[Publication Archive](https://github.com/aaronsharpe/publication_archives)**  
 
+# Coding projects
+
 **[Ballistic Monte Carlo simulation code](https://github.com/dgglab/ballistic_montecarlo)**
+
+**[Ballistic Monte Carlo simulation code](https://github.com/dgglab/pypolyfab)**
+
 
 # Tools and techniques
 
