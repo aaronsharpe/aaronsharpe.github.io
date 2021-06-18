@@ -16,7 +16,7 @@ output:
 
 **[Ballistic Monte Carlo simulation code](https://github.com/dgglab/ballistic_montecarlo)**
 
-**[Ballistic Monte Carlo simulation code](https://github.com/dgglab/pypolyfab)**
+**[Pypolyfab](https://github.com/dgglab/pypolyfab)**
 
 
 # Tools and techniques
