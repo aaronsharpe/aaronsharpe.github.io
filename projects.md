@@ -25,9 +25,9 @@ output:
 
 # 3D printing
 
-In my spare time, I have helped several other students address specific research problems by helping them design and build custom parts for their experimental setups. If you have such a problem, please don't hesitate to reach out.
+In my spare time, I have helped several other students address specific research problems by helping them design and build custom parts for their experimental setups. If you have such a problem, please don't hesitate to reach out. Here are some of the projects I have helped with:
 
-**[Collar to allow for consistently positioning of dilution fridge probe field center of magnet, Goldhaber-Gordon Group](https://www.thingiverse.com/thing:4900822)**
+**[Collar to aid in consistent sample positioning in magnet field center of dilution fridge system, Goldhaber-Gordon Group](https://www.thingiverse.com/thing:4900822)**
 
 **Optical imaging box for in-situ characterization of perovskite photovoltaic device degradation (manufactured components include camera mount, fixture for light mounts, stage for sample mounting and light controller holder), Dauskardt Group**
 
