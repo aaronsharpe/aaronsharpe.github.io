@@ -29,6 +29,6 @@ In my spare time, I have helped several other students address specific research
 
 **[Collar to aid in consistent sample positioning in magnet field center of dilution fridge system, Goldhaber-Gordon Group](https://www.thingiverse.com/thing:4900822)**
 
-**Optical imaging box for in-situ characterization of perovskite photovoltaic device degradation (manufactured components include camera mount, fixture for light mounts, stage for sample mounting and light controller holder), Dauskardt Group**
+[**Optical imaging box for in-situ characterization of perovskite photovoltaic device degradation (manufactured components include camera mount, fixture for light mounts, stage for sample mounting and light controller holder), Dauskardt Group**]({{ site.url }}/image_box)
 
-**3 point bend/flexural testing apparatus for solid-state battery electrolytes and other stretchable membrane materials, Dauskardt and Cui Groups**
+[**3 point bend/flexural testing apparatus for solid-state battery electrolytes and other stretchable membrane materials, Dauskardt and Cui Groups**]({{ site.url }}/bend)
