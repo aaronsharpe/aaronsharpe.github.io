@@ -2,7 +2,7 @@
 layout: about
 title: "About"
 permalink: "/about/"
-order: 5
+order: 6
 output:
   html_document: default
   pdf_document: default
@@ -17,7 +17,7 @@ output:
 
 ![image](/img/dsc_0032b.jpg){: .center-image }
 
-**Current Position:**  
+**Current Position:**
 
 <table style="width: 100%; border-collapse: collapse; border: none; margin-top: -20px;">
   <colgroup>
@@ -31,9 +31,9 @@ output:
       <td style="border: none;">Truman Fellow, Sandia National Lab</td>
     </tr>
   </tbody>
-</table>  
+</table>
 
-**Education:**  
+**Education:**
 <table style="width: 100%; border-collapse: collapse; border: none; margin-top: -20px;">
   <colgroup>
     <col span="1" style="width: 15;">
@@ -50,9 +50,9 @@ output:
       <td style="border: none;"> B.S. in Physics, Rice University</td>
     </tr>
   </tbody>
-</table>  
+</table>
 
-**Former Positions:**  
+**Former Positions:**
 <table style="width: 100%; border-collapse: collapse; border: none; margin-top: -20px;">
   <colgroup>
     <col span="1" style="width: 15;">
@@ -77,4 +77,4 @@ output:
       <td style="border: none;"> NSF REU Student, <a href="https://nagelgroup.uchicago.edu/Nagel-Group/index.html"> Nagel Group</a>, University of Chicago</td>
     </tr>
   </tbody>
-</table>  
+</table>
