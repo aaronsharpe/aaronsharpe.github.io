@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Seminar Series: Practical lab skills"
+date:   2021-10-19
+categories: news
+---
+I recently started a seminar series on practical skills for the lab. The goal is for the course to help new students get a jump start in familiarizing themselves with everything they may come across in the lab. Check out all the content [here]({{ site.url }}/practicallabskills/).
