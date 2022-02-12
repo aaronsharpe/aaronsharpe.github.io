@@ -47,7 +47,7 @@ APS March Meeting, Baltimore, MD (03/14/2016)
 
 **Characterization of Quantum Cascade Laser Wafers**  
 Mellon Mays Undergraduate
-Fellowship Southeastern Regional Conference, Atlanda, GA (11/2013)  
+Fellowship Southeastern Regional Conference, Atlanta, GA (11/2013)  
 [PDF]({{ site.url }}/presentations/qcl.pdf) &nbsp; &nbsp;
 
 **Life underneath a Leidenfrost Drops**  
