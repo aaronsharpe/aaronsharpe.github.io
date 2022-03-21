@@ -5,6 +5,11 @@ permalink: "/presentations/"
 order: 4
 ---
 
+**Magnetic anisotropy in twisted bilayer graphene and ABC-trilayer graphene aligned with hexagonal boron nitride**  
+APS March Meeting, Chicago, IL (03/15/2022)  
+[PDF]({{ site.url }}/presentations/march_meeting_2022.pdf) &nbsp; &nbsp;
+
+
 **Ferromagnetism in twisted bilayer graphene**  
 Thesis Defense, Stanford University (6/23/2020)  
 [PDF]({{ site.url }}/presentations/defense_noack.pdf) &nbsp; &nbsp;
