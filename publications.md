@@ -12,6 +12,14 @@ output:
 
 ### 2022
 
+**Unusual magnetotransport in twisted bilayer graphene**\
+Joe Finney, Aaron L. Sharpe, Eli J. Fox, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon\
+PNAS 119, e2118482119 (2022)\
+[PDF]({{ site.url }}/papers/joe_paper.pdf) &nbsp; &nbsp;
+[Data](https://github.com/spxtr/noblehierarch) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2105.01870) &nbsp; &nbsp;
+[PNAS](https://www.pnas.org/doi/10.1073/pnas.2118482119) &nbsp; &nbsp;
+
 **Tunable ferromagnetism at non-integer filling of a moiré superlattice**\
 Guorui Chen\*, Aaron L. Sharpe\*, Eli J. Fox\*, Shaoxin Wang, Bosai Lyu, Lili Jiang, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Michael F. Crommie, Marc A. Kastner, Zhiwen Shi, David Goldhaber-Gordon, Yuanbo Zhang, and Feng Wang\
 Nano Lett. 22, 238-245 (2022)\
@@ -20,13 +28,6 @@ Nano Lett. 22, 238-245 (2022)\
 [Nano Lett.](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c03699) &nbsp; &nbsp;
 
 ### 2021
-
-**Unusual magnetotransport in twisted bilayer graphene**\
-Joe Finney, Aaron L. Sharpe, Eli J. Fox, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon\
-arXiv:2102.04039\
-[PDF]({{ site.url }}/papers/2105.01870.pdf) &nbsp; &nbsp;
-[Data](https://github.com/spxtr/noblehierarch) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2105.01870) &nbsp; &nbsp;
 
 **Super-geometric electron focusing on the hexagonal Fermi surface of PdCoO2**\
 Maja D. Bachmann\*, Aaron L. Sharpe\*, Arthur W. Barnard, Carsten Putzke, Thomas Scaffidi, Nabhanila Nandi, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Andrew P. Mackenzie, and Philip J. W. Moll\
