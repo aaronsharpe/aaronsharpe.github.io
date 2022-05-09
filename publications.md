@@ -12,6 +12,13 @@ output:
 
 ### 2022
 
+**Super-geometric electron focusing on the hexagonal Fermi surface of PdCoO2**\
+Maja D. Bachmann\*, Aaron L. Sharpe\*, Arthur W. Barnard, Carsten Putzke, Thomas Scaffidi, Nabhanila Nandi, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Andrew P. Mackenzie, and Philip J. W. Moll\
+Nature Physics (2022)\
+[PDF](https://rdcu.be/cNbEN) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2103.01332) &nbsp; &nbsp;
+[Nat. Phys.](https://www.nature.com/articles/s41567-022-01570-7) &nbsp; &nbsp;
+
 **Unusual magnetotransport in twisted bilayer graphene**\
 Joe Finney, Aaron L. Sharpe, Eli J. Fox, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon\
 PNAS 119, e2118482119 (2022)\
@@ -28,12 +35,6 @@ Nano Lett. 22, 238-245 (2022)\
 [Nano Lett.](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c03699) &nbsp; &nbsp;
 
 ### 2021
-
-**Super-geometric electron focusing on the hexagonal Fermi surface of PdCoO2**\
-Maja D. Bachmann\*, Aaron L. Sharpe\*, Arthur W. Barnard, Carsten Putzke, Thomas Scaffidi, Nabhanila Nandi, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Andrew P. Mackenzie, and Philip J. W. Moll\
-arXiv:2103.01332\
-[PDF]({{ site.url }}/papers/2103.01332.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2103.01332) &nbsp; &nbsp;
 
 **Evidence of orbital ferromagnetism in twisted bilayer graphene aligned to hexagonal boron nitride**\
 Aaron L. Sharpe, Eli J. Fox, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon\
@@ -52,7 +53,7 @@ Thesis, Stanford University (2020)\
 [Stanford](https://searchworks.stanford.edu/view/13753843)
 
 **Tunable correlated Chern insulator and ferromagnetism in a moiré superlattice**\
-Guorui Chen, Aaron L. Sharpe, Eli J. Fox, Ya-Hui Zhang, Shaoxin Wang, Lili Jiang, Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Zhiwen Shi, T. Senthil, David Goldhaber-Gordon, Yuanbo Zhang, and Feng Wang  
+Guorui Chen, Aaron L. Sharpe, Eli J. Fox, Ya-Hui Zhang, Shaoxin Wang, Lili Jiang, Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Zhiwen Shi, T. Senthil, David Goldhaber-Gordon, Yuanbo Zhang, and Feng Wang\
 Nature 579, 56-61 (2020)\
 [PDF](https://rdcu.be/ceyMw) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/1905.06535) &nbsp; &nbsp;
