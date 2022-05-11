@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Publication: Unusual magnetotransport in twisted bilayer graphene"
+title:  "Publication: Super-geometric electron focusing on the hexagonal Fermi surface of PdCoO2"
 date:   2022-5-9
 categories: publication
 ---
