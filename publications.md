@@ -12,6 +12,12 @@ output:
 
 ### 2022
 
+**Stacks on stacks on stacks**\
+Aaron L. Sharpe\
+Nature Materials (2022)\
+[PDF](https://rdcu.be/cRbOU) &nbsp; &nbsp;
+[Nat. Mater.](https://www.nature.com/articles/s41563-022-01314-1) &nbsp; &nbsp;
+
 **Super-geometric electron focusing on the hexagonal Fermi surface of PdCoO2**\
 Maja D. Bachmann\*, Aaron L. Sharpe\*, Arthur W. Barnard, Carsten Putzke, Thomas Scaffidi, Nabhanila Nandi, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Andrew P. Mackenzie, and Philip J. W. Moll\
 Nature Physics (2022)\
