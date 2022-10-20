@@ -13,7 +13,7 @@ output:
 ### 2022
 
 **Unusual magnetotransport in twisted bilayer graphene from strain-induced open Fermi surfaces**\
-Xiaoyu Wang, Joe Finney, Aaron L. Sharpe, Linsey Rodenbach, Connie L. Hsueh, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Oskar Vafek, and David Goldhaber-Gordon\
+Xiaoyu Wang, Joe Finney, Aaron L. Sharpe, Linsey K. Rodenbach, Connie L. Hsueh, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Oskar Vafek, and David Goldhaber-Gordon\
 arXiv (2022)\
 [PDF]({{ site.url }}/papers/2209.08204.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2209.08204) &nbsp; &nbsp;
