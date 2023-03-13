@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "March Meeting"
+date:   2023-3-13
+categories: publication
+---
+
+It was great to catch up with a lot of people I have not seen in a long time and meet a bunch of new people at March meeting. If you made it to my site to check out the slides of my talk, you can find them [here]({{ site.url }}/presentations/march_meeting_2023.pdf). Feel free to reach out with any questions!
