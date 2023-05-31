@@ -13,7 +13,7 @@ output:
 ### 2023
 
 **Magnetic field stabilized Wigner crystal states in a graphene moiré superlattice**\
-Guorui Chen, Ya-Hui Zhang, Aaron Sharpe, Zuocheng Zhang, Shaoxin Wang, Lili Jiang, Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Zhiwen Shi, David Goldhaber-Gordon, Yuanbo Zhang, Feng Wang\
+Guorui Chen, Ya-Hui Zhang, Aaron L. Sharpe, Zuocheng Zhang, Shaoxin Wang, Lili Jiang, Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Zhiwen Shi, David Goldhaber-Gordon, Yuanbo Zhang, Feng Wang\
 arXiv (2023)\
 [PDF]({{ site.url }}/papers/2305.08387.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2305.08387) &nbsp; &nbsp;
