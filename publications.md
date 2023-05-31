@@ -10,6 +10,14 @@ output:
 ## [Google Scholar](https://scholar.google.com/citations?user=7LPtqEsAAAAJ&hl=en)
 ## [ORCID](https://orcid.org/0000-0002-4260-8546)
 
+### 2023
+
+**Magnetic field stabilized Wigner crystal states in a graphene moiré superlattice**\
+Guorui Chen, Ya-Hui Zhang, Aaron Sharpe, Zuocheng Zhang, Shaoxin Wang, Lili Jiang, Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Zhiwen Shi, David Goldhaber-Gordon, Yuanbo Zhang, Feng Wang\
+arXiv (2023)\
+[PDF]({{ site.url }}/papers/2305.08387.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2305.08387) &nbsp; &nbsp;
+
 ### 2022
 
 **Unusual magnetotransport in twisted bilayer graphene from strain-induced open Fermi surfaces**\
@@ -24,8 +32,8 @@ Nature Materials (2022)\
 [PDF](https://rdcu.be/cRbOU) &nbsp; &nbsp;
 [Nat. Mater.](https://www.nature.com/articles/s41563-022-01314-1) &nbsp; &nbsp;
 
-**Super-geometric electron focusing on the hexagonal Fermi surface of PdCoO2**\
-Maja D. Bachmann\*, Aaron L. Sharpe\*, Arthur W. Barnard, Carsten Putzke, Thomas Scaffidi, Nabhanila Nandi, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Andrew P. Mackenzie, and Philip J. W. Moll\
+**Directional ballistic transport in the two-dimensional metal PdCoO2**\
+Maja D. Bachmann\*, Aaron L. Sharpe\*, Graham Baker, Arthur W. Barnard, Carsten Putzke, Thomas Scaffidi, Nabhanila Nandi, Philippa H. McGuinness, Elina Zhakina, Michal Moravec, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Douglas A. Bonn, Andrew P. Mackenzie, and Philip J. W. Moll\
 Nature Physics (2022)\
 [PDF](https://rdcu.be/cNbEN) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2103.01332) &nbsp; &nbsp;
