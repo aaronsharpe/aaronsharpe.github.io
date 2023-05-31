@@ -28,13 +28,13 @@ arXiv (2022)\
 
 **Stacks on stacks on stacks**\
 Aaron L. Sharpe\
-Nature Materials (2022)\
+Nature Materials 21, 842-843 (2022)\
 [PDF](https://rdcu.be/cRbOU) &nbsp; &nbsp;
 [Nat. Mater.](https://www.nature.com/articles/s41563-022-01314-1) &nbsp; &nbsp;
 
 **Directional ballistic transport in the two-dimensional metal PdCoO2**\
 Maja D. Bachmann\*, Aaron L. Sharpe\*, Graham Baker, Arthur W. Barnard, Carsten Putzke, Thomas Scaffidi, Nabhanila Nandi, Philippa H. McGuinness, Elina Zhakina, Michal Moravec, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Douglas A. Bonn, Andrew P. Mackenzie, and Philip J. W. Moll\
-Nature Physics (2022)\
+Nature Physics 18, 819-824 (2022)\
 [PDF](https://rdcu.be/cNbEN) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2103.01332) &nbsp; &nbsp;
 [Nat. Phys.](https://www.nature.com/articles/s41567-022-01570-7) &nbsp; &nbsp;
