@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Temporarily moving to Boston"
+date:   2023-3-13
+categories: news
+---
+
+For the next 6 months, I will be visiting MIT, primarily collaborating with Pablo Jarillo-Herero. If you are in the area and would like to catch up, send me an email!
