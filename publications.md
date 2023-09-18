@@ -30,7 +30,7 @@ Xiaoyu Wang, Joe Finney, Aaron L. Sharpe, Linsey K. Rodenbach, Connie L. Hsueh, 
 PNAS 120, e2307151120 (2023)\
 [PDF]({{ site.url }}/papers/2209.08204.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2209.08204) &nbsp; &nbsp;
-[PNAS](https://www-pnas-org.stanford.idm.oclc.org/doi/10.1073/pnas.2307151120) &nbsp; &nbsp;
+[PNAS](https://doi.org/10.1073/pnas.2307151120) &nbsp; &nbsp;
 
 ### 2022
 
