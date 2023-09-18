@@ -100,7 +100,7 @@ Nature Communications 10, 5081 (2019)\
 **Emergent ferromagnetism near three-quarters filling in twisted bilayer graphene**\
 Aaron L. Sharpe\*, Eli J. Fox\*, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon\
 Science 365, 605-608 (2019)\
-[PDF]({{ site.url }}/papers/science.aaw3780-3.pdf) &nbsp; &nbsp; 
+[PDF](http://science.sciencemag.org/cgi/rapidpdf/365/6453/605?ijkey=mAyzLW4neJ24A&keytype=ref&siteid=sci) &nbsp; &nbsp; 
 [Supplement]({{ site.url }}/papers/Sharpe_sm.pdf) &nbsp; &nbsp;
 [Git](https://github.com/aaronsharpe/publication_archives/tree/main/emergent%20ferromagnetism%20near%20three-quarters%20filling%20in%20twisted%20bilayer%20graphene) &nbsp; &nbsp;
 [Data](https://purl.stanford.edu/bg095cp1548) &nbsp; &nbsp;
