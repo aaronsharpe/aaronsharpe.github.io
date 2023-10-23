@@ -12,6 +12,12 @@ output:
 
 ### 2023
 
+**Helical trilayer graphene: a moiré platform for strongly-interacting topological bands**\
+Li-Qiao Xia, Sergio C. de la Barrera, Aviram Uri, Aaron Sharpe, Yves H. Kwan, Ziyan Zhu, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Liang Fu, Trithep Devakul, and Pablo Jarillo-Herrero\
+arXiv:2310.12204\
+[PDF]({{ site.url }}/papers/2310.12204.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2310.12204) &nbsp; &nbsp;
+
 **Torsional Force Microscopy of Van der Waals Moirés and Atomic Lattices**\
 Mihir Pendharkar, Steven J. Tran, Gregory Zaborski Jr., Joe Finney, Aaron L. Sharpe, Rupini V. Kamat, Sandesh S. Kalantre, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Bede Pittenger, Christina J. Newcomb, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon\
 arXiv:2308.08814\
