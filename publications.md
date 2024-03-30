@@ -16,7 +16,7 @@ output:
 Elijah Courtney, Mihir Pendharkar, Nathan J. Bittner, Aaron L. Sharpe, David Goldhaber-Gordon\
 arXiv:2403.12901\
 [PDF]({{ site.url }}/papers/2403.12901.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/pdf/2403.12901.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2403.12901) &nbsp; &nbsp;
 
 **Torsional Force Microscopy of Van der Waals Moirés and Atomic Lattices**\
 Mihir Pendharkar, Steven J. Tran, Gregory Zaborski Jr., Joe Finney, Aaron L. Sharpe, Rupini V. Kamat, Sandesh S. Kalantre, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Bede Pittenger, Christina J. Newcomb, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon\
