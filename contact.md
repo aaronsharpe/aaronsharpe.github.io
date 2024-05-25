@@ -4,7 +4,7 @@ title: "Contact"
 permalink: "/contact/"
 order: 7
 ---
-email: [aaronlsharpe@gmail.com](mailto:aaronlsharpe@gmail.com)
+email: [aaron@aaronsharpe.science](mailto:aaron@aaronsharpe.science)
 
 github: [aaronsharpe](https://github.com/aaronsharpe)
 
