@@ -10,29 +10,60 @@ output:
 ## [Google Scholar](https://scholar.google.com/citations?user=7LPtqEsAAAAJ&hl=en)
 ## [ORCID](https://orcid.org/0000-0002-4260-8546)
 
-### 2022
+### 2024
+
+**Automated Tabletop Exfoliation and Identification of Monolayer Graphene Flakes**\
+Elijah Courtney, Mihir Pendharkar, Nathan J. Bittner, Aaron L. Sharpe, David Goldhaber-Gordon\
+arXiv:2403.12901\
+[PDF]({{ site.url }}/papers/2403.12901.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2403.12901) &nbsp; &nbsp;
+
+**Torsional Force Microscopy of Van der Waals Moirés and Atomic Lattices**\
+Mihir Pendharkar, Steven J. Tran, Gregory Zaborski Jr., Joe Finney, Aaron L. Sharpe, Rupini V. Kamat, Sandesh S. Kalantre, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Bede Pittenger, Christina J. Newcomb, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon\
+PNAS 121, e2314083121 (2024)\
+[PDF]({{ site.url }}/papers/2308.08814.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2308.08814) &nbsp; &nbsp;
+[PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2314083121) &nbsp; &nbsp;
+
+### 2023
+
+**Helical trilayer graphene: a moiré platform for strongly-interacting topological bands**\
+Li-Qiao Xia, Sergio C. de la Barrera, Aviram Uri, Aaron Sharpe, Yves H. Kwan, Ziyan Zhu, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Liang Fu, Trithep Devakul, and Pablo Jarillo-Herrero\
+arXiv:2310.12204\
+[PDF]({{ site.url }}/papers/2310.12204.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2310.12204) &nbsp; &nbsp;
+
+**Magnetic field stabilized Wigner crystal states in a graphene moiré superlattice**\
+Guorui Chen, Ya-Hui Zhang, Aaron L. Sharpe, Zuocheng Zhang, Shaoxin Wang, Lili Jiang, Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Zhiwen Shi, David Goldhaber-Gordon, Yuanbo Zhang, Feng Wang\
+Nano Lett. 23, 7023-7028 (2023)\
+[PDF]({{ site.url }}/papers/2305.08387.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2305.08387) &nbsp; &nbsp;
+[Nano Lett.](https://doi.org/10.1021/acs.nanolett.3c01741) &nbsp; &nbsp;
 
 **Unusual magnetotransport in twisted bilayer graphene from strain-induced open Fermi surfaces**\
 Xiaoyu Wang, Joe Finney, Aaron L. Sharpe, Linsey K. Rodenbach, Connie L. Hsueh, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Oskar Vafek, and David Goldhaber-Gordon\
-arXiv (2022)\
+PNAS 120, e2307151120 (2023)\
 [PDF]({{ site.url }}/papers/2209.08204.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2209.08204) &nbsp; &nbsp;
+[PNAS](https://doi.org/10.1073/pnas.2307151120) &nbsp; &nbsp;
+
+### 2022
 
 **Stacks on stacks on stacks**\
 Aaron L. Sharpe\
-Nature Materials (2022)\
+Nature Materials 21, 842-843 (2022)\
 [PDF](https://rdcu.be/cRbOU) &nbsp; &nbsp;
 [Nat. Mater.](https://www.nature.com/articles/s41563-022-01314-1) &nbsp; &nbsp;
 
-**Super-geometric electron focusing on the hexagonal Fermi surface of PdCoO2**\
-Maja D. Bachmann\*, Aaron L. Sharpe\*, Arthur W. Barnard, Carsten Putzke, Thomas Scaffidi, Nabhanila Nandi, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Andrew P. Mackenzie, and Philip J. W. Moll\
-Nature Physics (2022)\
+**Directional ballistic transport in the two-dimensional metal PdCoO2**\
+Maja D. Bachmann\*, Aaron L. Sharpe\*, Graham Baker, Arthur W. Barnard, Carsten Putzke, Thomas Scaffidi, Nabhanila Nandi, Philippa H. McGuinness, Elina Zhakina, Michal Moravec, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Douglas A. Bonn, Andrew P. Mackenzie, and Philip J. W. Moll\
+Nature Physics 18, 819-824 (2022)\
 [PDF](https://rdcu.be/cNbEN) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2103.01332) &nbsp; &nbsp;
 [Nat. Phys.](https://www.nature.com/articles/s41567-022-01570-7) &nbsp; &nbsp;
 
 **Unusual magnetotransport in twisted bilayer graphene**\
-Joe Finney, Aaron L. Sharpe, Eli J. Fox, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon\
+Joe Finney, Aaron L. Sharpe, Eli J. Fox, Connie L. Hsueh, Daniel E. Parker, Matthew Yankowitz, Shaowen Chen, Kenji Watanabe, Takashi Taniguchi, Cory R. Dean, Ashvin Vishwanath, Marc A. Kastner, and David Goldhaber-Gordon\
 PNAS 119, e2118482119 (2022)\
 [PDF]({{ site.url }}/papers/joe_paper.pdf) &nbsp; &nbsp;
 [Data](https://github.com/spxtr/noblehierarch) &nbsp; &nbsp;
@@ -84,7 +115,7 @@ Nature Communications 10, 5081 (2019)\
 **Emergent ferromagnetism near three-quarters filling in twisted bilayer graphene**\
 Aaron L. Sharpe\*, Eli J. Fox\*, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon\
 Science 365, 605-608 (2019)\
-[PDF](https://ggg.stanford.edu/10.1126/science.aaw3780) &nbsp; &nbsp;
+[PDF](http://science.sciencemag.org/cgi/rapidpdf/365/6453/605?ijkey=mAyzLW4neJ24A&keytype=ref&siteid=sci) &nbsp; &nbsp; 
 [Supplement]({{ site.url }}/papers/Sharpe_sm.pdf) &nbsp; &nbsp;
 [Git](https://github.com/aaronsharpe/publication_archives/tree/main/emergent%20ferromagnetism%20near%20three-quarters%20filling%20in%20twisted%20bilayer%20graphene) &nbsp; &nbsp;
 [Data](https://purl.stanford.edu/bg095cp1548) &nbsp; &nbsp;
