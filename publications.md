@@ -12,6 +12,12 @@ output:
 
 ### 2024
 
+**Quantitative determination of twist angle and strain in Van der Waals moiré superlattices**\
+Steven J. Tran, Jan-Lucas Uslu, Mihir Pendharkar, Joe Finney, Aaron L. Sharpe, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon\
+arXiv:2406.08681\
+[PDF]({{ site.url }}/papers/2406.08681) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2406.08681) &nbsp; &nbsp;
+
 **Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**\
 Rupini V. Kamat\*, Aaron L. Sharpe\*, Mihir Pendharkar, Jenny Hu, Steven J. Tran, Gregory Zaborski Jr., Marisa Hocking, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Andrew J. Mannix, Tony Heinz, David Goldhaber-Gordon\
 arXiv:2405.18588\
@@ -122,7 +128,7 @@ Nature Communications 10, 5081 (2019)\
 **Emergent ferromagnetism near three-quarters filling in twisted bilayer graphene**\
 Aaron L. Sharpe\*, Eli J. Fox\*, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon\
 Science 365, 605-608 (2019)\
-[PDF](http://science.sciencemag.org/cgi/rapidpdf/365/6453/605?ijkey=mAyzLW4neJ24A&keytype=ref&siteid=sci) &nbsp; &nbsp; 
+[PDF](http://science.sciencemag.org/cgi/rapidpdf/365/6453/605?ijkey=mAyzLW4neJ24A&keytype=ref&siteid=sci) &nbsp; &nbsp;
 [Supplement]({{ site.url }}/papers/Sharpe_sm.pdf) &nbsp; &nbsp;
 [Git](https://github.com/aaronsharpe/publication_archives/tree/main/emergent%20ferromagnetism%20near%20three-quarters%20filling%20in%20twisted%20bilayer%20graphene) &nbsp; &nbsp;
 [Data](https://purl.stanford.edu/bg095cp1548) &nbsp; &nbsp;
