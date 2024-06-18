@@ -23,11 +23,27 @@ output:
 
 **Contact Information:**
 
-email: [aaron@aaronsharpe.science](mailto:aaron@aaronsharpe.science)
+<table style="width: 100%; border-collapse: collapse; border: none; margin-top: -20px;">
+  <colgroup>
+    <col span="1" style="width: 15;">
+    <col span="1" style="width: 85%;">
+  </colgroup>
 
-github: [aaronsharpe](https://github.com/aaronsharpe)
-
-ORCID: [0000-0002-4260-8546](https://orcid.org/0000-0002-4260-8546)
+  <tbody>
+    <tr style="border: none; background:transparent;">
+      <td style="border: none;">email:</td>
+      <td style="border: none;"> <a href="mailto:aaron@aaronsharpe.science"> aaron@aaronsharpe.science</a></td>
+    </tr>
+    <tr style="border: none; background:transparent;">
+      <td style="border: none;">github::</td>
+      <td style="border: none;"> <a href="https://github.com/aaronsharp"> aaronsharpe</a></td>
+    </tr>
+    <tr style="border: none; background:transparent;">
+      <td style="border: none;">ORCID:</td>
+      <td style="border: none;"> <a href="https://orcid.org/0000-0002-4260-8546"> 0000-0002-4260-8546</a></td>
+    </tr>
+  </tbody>
+</table>
 
 **Current Position:**
 
@@ -76,9 +92,6 @@ ORCID: [0000-0002-4260-8546](https://orcid.org/0000-0002-4260-8546)
       <td style="border: none;">2020-2023</td>
       <td style="border: none;">Truman Fellow, Sandia National Lab</td>
     </tr>
-  </tbody>
-
-  <tbody>
     <tr style="border: none; background:transparent;">
       <td style="border: none;">2013</td>
       <td style="border: none;"> SURF Student, <a href="https://microdevices.jpl.nasa.gov/"> Microdevices Laboratory</a>, NASA JPL</td>
