@@ -15,7 +15,7 @@ output:
 **Quantitative determination of twist angle and strain in Van der Waals moiré superlattices**\
 Steven J. Tran, Jan-Lucas Uslu, Mihir Pendharkar, Joe Finney, Aaron L. Sharpe, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon\
 arXiv:2406.08681\
-[PDF]({{ site.url }}/papers/2406.08681) &nbsp; &nbsp;
+[PDF]({{ site.url }}/papers/2406.08681.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2406.08681) &nbsp; &nbsp;
 
 **Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**\
