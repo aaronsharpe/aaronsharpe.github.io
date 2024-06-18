@@ -22,6 +22,7 @@ output:
 </div>
 
 **Contact Information:**
+
 email: [aaron@aaronsharpe.science](mailto:aaron@aaronsharpe.science)
 
 github: [aaronsharpe](https://github.com/aaronsharpe)
