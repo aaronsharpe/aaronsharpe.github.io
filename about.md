@@ -17,6 +17,10 @@ output:
 
 ![image](/img/dsc_0032b.jpg){: .center-image }
 
+<div style="text-align: center;">
+  <a href="/files/CV.pdf">Full CV</a>
+</div>
+
 **Current Position:**
 
 <table style="width: 100%; border-collapse: collapse; border: none; margin-top: -20px;">
@@ -78,6 +82,10 @@ output:
     <tr style="border: none; background:transparent;">
       <td style="border: none;">2012</td>
       <td style="border: none;"> NSF REU Student, <a href="https://jila.colorado.edu/jin/"> Jin Group</a>, University of Colorado at Boulder</td>
+    </tr>
+    <tr style="border: none; background:transparent;">
+      <td style="border: none;">2011-12</td>
+      <td style="border: none;"> Undergraduate Researcher, <a href="http://atomcool.rice.edu/"> Hulet Group</a>, Rice University</td>
     </tr>
     <tr style="border: none; background:transparent;">
       <td style="border: none;">2011</td>
