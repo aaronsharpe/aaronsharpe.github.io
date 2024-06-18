@@ -21,7 +21,7 @@ arXiv:2406.08681\
 **Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**\
 Rupini V. Kamat\*, Aaron L. Sharpe\*, Mihir Pendharkar, Jenny Hu, Steven J. Tran, Gregory Zaborski Jr., Marisa Hocking, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Andrew J. Mannix, Tony Heinz, David Goldhaber-Gordon\
 arXiv:2405.18588\
-[PDF]({{ site.url }}/papers/2403.12901.pdf) &nbsp; &nbsp;
+[PDF]({{ site.url }}/papers/2405.18588.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2405.18588) &nbsp; &nbsp;
 
 
