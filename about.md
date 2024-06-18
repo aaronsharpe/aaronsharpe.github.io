@@ -21,6 +21,13 @@ output:
   <a href="/files/CV.pdf">Full CV</a>
 </div>
 
+**Contact Information:**
+email: [aaron@aaronsharpe.science](mailto:aaron@aaronsharpe.science)
+
+github: [aaronsharpe](https://github.com/aaronsharpe)
+
+ORCID: [0000-0002-4260-8546](https://orcid.org/0000-0002-4260-8546)
+
 **Current Position:**
 
 <table style="width: 100%; border-collapse: collapse; border: none; margin-top: -20px;">
@@ -62,7 +69,7 @@ output:
     <col span="1" style="width: 15;">
     <col span="1" style="width: 85%;">
   </colgroup>
-  
+
   <tbody>
     <tr style="border: none; background:transparent;">
       <td style="border: none;">2020-2023</td>
