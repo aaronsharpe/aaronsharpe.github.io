@@ -35,7 +35,7 @@ output:
       <td style="border: none;"> <a href="mailto:aaron@aaronsharpe.science"> aaron@aaronsharpe.science</a></td>
     </tr>
     <tr style="border: none; background:transparent;">
-      <td style="border: none;">github::</td>
+      <td style="border: none;">github:</td>
       <td style="border: none;"> <a href="https://github.com/aaronsharp"> aaronsharpe</a></td>
     </tr>
     <tr style="border: none; background:transparent;">
