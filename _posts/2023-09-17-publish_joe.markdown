@@ -9,4 +9,8 @@ Congrats to Xiaoyu and Joe on the acceptance of their paper to PNAS. They really
 https://doi.org/10.1073/pnas.2307151120](https://doi.org/10.1073/pnas.2307151120)).
 
 
+![](/img/xiaoyu_strain_br.png){: .center-image }
+
+
+
 ![](/img/xiaoyu_strain.png){: .center-image }
