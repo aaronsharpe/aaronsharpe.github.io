@@ -36,7 +36,7 @@ output:
     </tr>
     <tr style="border: none; background:transparent;">
       <td style="border: none;">github:</td>
-      <td style="border: none;"> <a href="https://github.com/aaronsharp"> aaronsharpe</a></td>
+      <td style="border: none;"> <a href="https://github.com/aaronsharpe"> aaronsharpe</a></td>
     </tr>
     <tr style="border: none; background:transparent;">
       <td style="border: none;">ORCID:</td>
