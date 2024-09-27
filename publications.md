@@ -10,19 +10,7 @@ output:
 ## [Google Scholar](https://scholar.google.com/citations?user=7LPtqEsAAAAJ&hl=en)
 ## [ORCID](https://orcid.org/0000-0002-4260-8546)
 
-### 2024
-
-**Quantitative determination of twist angle and strain in Van der Waals moiré superlattices**\
-Steven J. Tran, Jan-Lucas Uslu, Mihir Pendharkar, Joe Finney, Aaron L. Sharpe, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon\
-arXiv:2406.08681\
-[PDF]({{ site.url }}/papers/2406.08681.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2406.08681) &nbsp; &nbsp;
-
-**Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**\
-Rupini V. Kamat\*, Aaron L. Sharpe\*, Mihir Pendharkar, Jenny Hu, Steven J. Tran, Gregory Zaborski Jr., Marisa Hocking, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Andrew J. Mannix, Tony Heinz, David Goldhaber-Gordon\
-arXiv:2405.18588\
-[PDF]({{ site.url }}/papers/2405.18588.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2405.18588) &nbsp; &nbsp;
+### Preprints
 
 
 **Automated Tabletop Exfoliation and Identification of Monolayer Graphene Flakes**\
@@ -30,6 +18,32 @@ Elijah Courtney, Mihir Pendharkar, Nathan J. Bittner, Aaron L. Sharpe, David Gol
 arXiv:2403.12901\
 [PDF]({{ site.url }}/papers/2403.12901.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2403.12901) &nbsp; &nbsp;
+
+**Helical trilayer graphene: a moiré platform for strongly-interacting topological bands**\
+Li-Qiao Xia, Sergio C. de la Barrera, Aviram Uri, Aaron Sharpe, Yves H. Kwan, Ziyan Zhu, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Liang Fu, Trithep Devakul, and Pablo Jarillo-Herrero\
+arXiv:2310.12204\
+[PDF]({{ site.url }}/papers/2310.12204.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2310.12204) &nbsp; &nbsp;
+
+
+
+### 2024
+
+
+**Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**\
+Rupini V. Kamat\*, Aaron L. Sharpe\*, Mihir Pendharkar, Jenny Hu, Steven J. Tran, Gregory Zaborski Jr., Marisa Hocking, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Andrew J. Mannix, Tony Heinz, David Goldhaber-Gordon\
+PNAS 121, e2410993121 (2024)\
+[PDF]({{ site.url }}/papers/2405.18588.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2405.18588) &nbsp; &nbsp;
+[PNAS](https://www.pnas.org/doi/10.1073/pnas.2410993121) &nbsp; &nbsp;
+
+**Quantitative determination of twist angle and strain in Van der Waals moiré superlattices**\
+Steven J. Tran, Jan-Lucas Uslu, Mihir Pendharkar, Joe Finney, Aaron L. Sharpe, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon\
+Appl. Phys. Lett. 125, 113106 (2024)\
+[PDF]({{ site.url }}/papers/2406.08681.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2406.08681) &nbsp; &nbsp;
+[APL](https://doi.org/10.1063/5.0223777) &nbsp; &nbsp;
+
 
 **Torsional Force Microscopy of Van der Waals Moirés and Atomic Lattices**\
 Mihir Pendharkar, Steven J. Tran, Gregory Zaborski Jr., Joe Finney, Aaron L. Sharpe, Rupini V. Kamat, Sandesh S. Kalantre, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Bede Pittenger, Christina J. Newcomb, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon\
@@ -39,12 +53,6 @@ PNAS 121, e2314083121 (2024)\
 [PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2314083121) &nbsp; &nbsp;
 
 ### 2023
-
-**Helical trilayer graphene: a moiré platform for strongly-interacting topological bands**\
-Li-Qiao Xia, Sergio C. de la Barrera, Aviram Uri, Aaron Sharpe, Yves H. Kwan, Ziyan Zhu, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Liang Fu, Trithep Devakul, and Pablo Jarillo-Herrero\
-arXiv:2310.12204\
-[PDF]({{ site.url }}/papers/2310.12204.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2310.12204) &nbsp; &nbsp;
 
 **Magnetic field stabilized Wigner crystal states in a graphene moiré superlattice**\
 Guorui Chen, Ya-Hui Zhang, Aaron L. Sharpe, Zuocheng Zhang, Shaoxin Wang, Lili Jiang, Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Zhiwen Shi, David Goldhaber-Gordon, Yuanbo Zhang, Feng Wang\
