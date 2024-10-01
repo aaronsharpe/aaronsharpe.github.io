@@ -5,6 +5,10 @@ permalink: "/presentations/"
 order: 4
 ---
 
+**Making Carbon Magnetic**\
+McMillan Award Colloquium, UIUC (10/02/2024)\
+[PDF]({{ site.url }}/presentations/mcmillan_split.pdf) &nbsp; &nbsp;
+
 **Systematically Aligning Graphene and Hexagonal Boron Nitride**\
 APS March Meeting, Las Vegas, NV (03/06/2023)\
 [PDF]({{ site.url }}/presentations/march_meeting_2023.pdf) &nbsp; &nbsp;
