@@ -55,8 +55,8 @@ output:
 
   <tbody>
     <tr style="border: none; background:transparent;">
-      <td style="border: none;">2023-</td>
-      <td style="border: none;">Visiting Scientist, MIT</td>
+      <td style="border: none;">2024-</td>
+      <td style="border: none;">SIMES Associate Scientist, Stanford</td>
     </tr>
   </tbody>
 </table>
@@ -88,6 +88,10 @@ output:
   </colgroup>
 
   <tbody>
+    <tr style="border: none; background:transparent;">
+      <td style="border: none;">2023-2024</td>
+      <td style="border: none;">Visiting Scientist, MIT</td>
+    </tr>
     <tr style="border: none; background:transparent;">
       <td style="border: none;">2020-2023</td>
       <td style="border: none;">Truman Fellow, Sandia National Lab</td>
