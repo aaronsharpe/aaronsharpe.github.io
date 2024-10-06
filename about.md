@@ -56,7 +56,7 @@ output:
   <tbody>
     <tr style="border: none; background:transparent;">
       <td style="border: none;">2024-</td>
-      <td style="border: none;">SIMES Associate Scientist, Stanford</td>
+      <td style="border: none;">SIMES Associate Scientist, Stanford University</td>
     </tr>
   </tbody>
 </table>
