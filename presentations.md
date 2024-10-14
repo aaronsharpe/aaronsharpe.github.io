@@ -9,6 +9,14 @@ order: 4
 McMillan Award Colloquium, UIUC (10/02/2024)\
 [PDF]({{ site.url }}/presentations/mcmillan_split.pdf) &nbsp; &nbsp;
 
+**Field-stabilized Chern insulator in magic-angle helical trilayer graphene**\
+EPiQS Postdoctoral Symposium, Salt Lake City, UT (06/04/2024)\
+[PDF]({{ site.url }}/presentations/2406_epiqs_split.pdf) &nbsp; &nbsp;
+
+**Field-stabilized Chern insulator in magic-angle helical trilayer graphene**\
+APS March Meeting, Minneapolis, MN (03/07/2024)\
+[PDF]({{ site.url }}/presentations/24_HTG_MM_split.pdf) &nbsp; &nbsp;
+
 **Systematically Aligning Graphene and Hexagonal Boron Nitride**\
 APS March Meeting, Las Vegas, NV (03/06/2023)\
 [PDF]({{ site.url }}/presentations/march_meeting_2023.pdf) &nbsp; &nbsp;
