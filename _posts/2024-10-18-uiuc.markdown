@@ -9,3 +9,4 @@ Thanks so much to everyone at UIUC for a wonderful visit, particularly my hosts,
 
 
 ![](/img/mcmillan.jpg){: .center-image }
+<img src="/img/mcmillan.jpg" alt="McMillan Award" style="width:50%;">
