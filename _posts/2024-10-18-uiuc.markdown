@@ -8,5 +8,4 @@ categories: news
 Thanks so much to everyone at UIUC for a wonderful visit, particularly my hosts, Taylor Hughes and Philip Phillips. It was a tremendous honor to receive this year’s McMillan award.  Bill was an incredible physicist and apparently quite the character.  You can read more about Bill [here](https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=2951). 
 
 
-![](/img/mcmillan.jpg){: .center-image }
-<img src="/img/mcmillan.jpg" alt="McMillan Award" style="width:50%;">
+![](/img/mcmillan.jpg =250x){: .center-image }
