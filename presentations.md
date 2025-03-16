@@ -5,6 +5,10 @@ permalink: "/presentations/"
 order: 4
 ---
 
+**Extended Fractional Chern Insulator Near Half Flux in Twisted Bilayer Graphene Above the Magic Angle**\
+APS March Meeting, Anaheim, CA (03/17/2025)\
+[PDF]({{ site.url }}/presentations/MM25_split.pdf) &nbsp; &nbsp;
+
 **Making Carbon Magnetic**\
 McMillan Award Colloquium, UIUC (10/02/2024)\
 [PDF]({{ site.url }}/presentations/mcmillan_split.pdf) &nbsp; &nbsp;
