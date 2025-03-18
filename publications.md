@@ -12,6 +12,11 @@ output:
 
 ### Preprints
 
+**Extended Fractional Chern Insulators Near Half Flux in Twisted Bilayer Graphene Above the Magic Angle**\
+Joe Finney, Aaron L. Sharpe, Linsey K. Rodenbach, Jian Kang, Xiaoyu Wang, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Oskar Vafek, David Goldhaber-Gordon\
+arXiv:2403.12901\
+[PDF]({{ site.url }}/papers/2503.12819v1.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2503.12819) &nbsp; &nbsp;
 
 **Automated Tabletop Exfoliation and Identification of Monolayer Graphene Flakes**\
 Elijah Courtney, Mihir Pendharkar, Nathan J. Bittner, Aaron L. Sharpe, David Goldhaber-Gordon\
