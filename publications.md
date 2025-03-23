@@ -35,24 +35,24 @@ arXiv:2310.12204\
 
 ### 2024
 
-**Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**..
-Rupini V. Kamat\*, Aaron L. Sharpe\*, Mihir Pendharkar, Jenny Hu, Steven J. Tran, Gregory Zaborski Jr., Marisa Hocking, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Andrew J. Mannix, Tony Heinz, David Goldhaber-Gordon..
-PNAS 121, e2410993121 (2024)..
+**Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**<br/>
+Rupini V. Kamat\*, Aaron L. Sharpe\*, Mihir Pendharkar, Jenny Hu, Steven J. Tran, Gregory Zaborski Jr., Marisa Hocking, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Andrew J. Mannix, Tony Heinz, David Goldhaber-Gordon<br/>
+PNAS 121, e2410993121 (2024)<br/>
 [PDF]({{ site.url }}/papers/2405.18588.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2405.18588) &nbsp; &nbsp;
 [PNAS](https://www.pnas.org/doi/10.1073/pnas.2410993121) &nbsp; &nbsp;
 
-**Quantitative determination of twist angle and strain in Van der Waals moiré superlattices**..
-Steven J. Tran, Jan-Lucas Uslu, Mihir Pendharkar, Joe Finney, Aaron L. Sharpe, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon..
-Appl. Phys. Lett. 125, 113106 (2024)..
+**Quantitative determination of twist angle and strain in Van der Waals moiré superlattices**<br/>
+Steven J. Tran, Jan-Lucas Uslu, Mihir Pendharkar, Joe Finney, Aaron L. Sharpe, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon<br/>
+Appl. Phys. Lett. 125, 113106 (2024)<br/>
 [PDF]({{ site.url }}/papers/2406.08681.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2406.08681) &nbsp; &nbsp;
 [APL](https://doi.org/10.1063/5.0223777) &nbsp; &nbsp;
 
 
-**Torsional Force Microscopy of Van der Waals Moirés and Atomic Lattices**..
-Mihir Pendharkar, Steven J. Tran, Gregory Zaborski Jr., Joe Finney, Aaron L. Sharpe, Rupini V. Kamat, Sandesh S. Kalantre, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Bede Pittenger, Christina J. Newcomb, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon..
-PNAS 121, e2314083121 (2024)..
+**Torsional Force Microscopy of Van der Waals Moirés and Atomic Lattices**<br/>
+Mihir Pendharkar, Steven J. Tran, Gregory Zaborski Jr., Joe Finney, Aaron L. Sharpe, Rupini V. Kamat, Sandesh S. Kalantre, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Bede Pittenger, Christina J. Newcomb, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon<br/>
+PNAS 121, e2314083121 (2024)<br/>
 [PDF]({{ site.url }}/papers/2308.08814.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2308.08814) &nbsp; &nbsp;
 [PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2314083121) &nbsp; &nbsp;
