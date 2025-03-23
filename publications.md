@@ -25,13 +25,13 @@ arXiv:2403.12901\
 [arXiv](https://arxiv.org/abs/2403.12901) &nbsp; &nbsp;
 
 **Helical trilayer graphene: a moiré platform for strongly-interacting topological bands**\
-Li-Qiao Xia, Sergio C. de la Barrera, Aviram Uri, Aaron Sharpe, Yves H. Kwan, Ziyan Zhu, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Liang Fu, Trithep Devakul, and Pablo Jarillo-Herrero\
+Li-Qiao Xia, Sergio C. de la Barrera, Aviram Uri, Aaron L. Sharpe, Yves H. Kwan, Ziyan Zhu, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Liang Fu, Trithep Devakul, and Pablo Jarillo-Herrero\
 arXiv:2310.12204\
 [PDF]({{ site.url }}/papers/2310.12204.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2310.12204) &nbsp; &nbsp;
 
 
-
+<div class='year-border'>
 ### 2024
 
 
@@ -56,6 +56,8 @@ PNAS 121, e2314083121 (2024)\
 [PDF]({{ site.url }}/papers/2308.08814.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2308.08814) &nbsp; &nbsp;
 [PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2314083121) &nbsp; &nbsp;
+</div>
+
 
 ### 2023
 

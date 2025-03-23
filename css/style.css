@@ -17,3 +17,9 @@ body {
     display: block; /* Ensure it's treated as a block element for margin to apply */
     margin-bottom: 20px; /* Increase to add more space between date and content */
   }
+
+  .year-border {
+    border-left: 3px solid rgba(211, 211, 211, 0.5); /* Adjust the color and width as needed */
+    padding-left: 10px;
+    margin-bottom: 50px;
+}
