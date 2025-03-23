@@ -31,7 +31,7 @@ arXiv:2310.12204\
 [arXiv](https://arxiv.org/abs/2310.12204) &nbsp; &nbsp;
 
 
-<div class='year-border'>
+<div class="year-border">
 ### 2024
 
 
