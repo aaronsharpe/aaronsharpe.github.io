@@ -132,6 +132,7 @@ Nano Lett. 21, 4299-4304 (2021)<br/>
 [Data](https://purl.stanford.edu/dq349wz5558) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2102.04039) &nbsp; &nbsp;
 [Nano Lett.](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.1c00696) &nbsp; &nbsp;
+[CMJC](https://www.condmatjclub.org/new-correlated-phenomena-in-magic-angle-twisted-bilayer-graphene-s/) &nbsp; &nbsp;
 
 </div>
 
