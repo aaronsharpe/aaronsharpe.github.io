@@ -132,7 +132,7 @@ Nano Lett. 21, 4299-4304 (2021)<br/>
 [Data](https://purl.stanford.edu/dq349wz5558) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2102.04039) &nbsp; &nbsp;
 [Nano Lett.](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.1c00696) &nbsp; &nbsp;
-[CMJC](https://www.condmatjclub.org/new-correlated-phenomena-in-magic-angle-twisted-bilayer-graphene-s/) &nbsp; &nbsp;
+
 
 </div>
 
@@ -174,7 +174,8 @@ Science 365, 605-608 (2019)<br/>
 [Git](https://github.com/aaronsharpe/publication_archives/tree/main/emergent%20ferromagnetism%20near%20three-quarters%20filling%20in%20twisted%20bilayer%20graphene) &nbsp; &nbsp;
 [Data](https://purl.stanford.edu/bg095cp1548) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/1901.03520) &nbsp; &nbsp;
-[Science](https://science.sciencemag.org/content/365/6453/605)
+[Science](https://science.sciencemag.org/content/365/6453/605) &nbsp; &nbsp;
+[CMJC](https://www.condmatjclub.org/new-correlated-phenomena-in-magic-angle-twisted-bilayer-graphene-s/) &nbsp; &nbsp;
 
 **Signatures of tunable superconductivity in a trilayer graphene moiré superlattice**<br/>
 Guorui Chen\*, Aaron L. Sharpe\*, Patrick Gallagher, Ilan T. Rosen, Eli J. Fox, Lili Jiang, Bosai Lyu,
