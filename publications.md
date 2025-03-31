@@ -14,9 +14,9 @@ output:
 
 **Size-restricted magnetotransport in the delafossite metals PdCoO2 and PtCoO2**<br/>
 Michal Moravec, Graham Baker, Maja D. Bachmann, Aaron L. Sharpe, Nabhanila Nandi, Arthur W. Barnard, Carsten Putzke, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Philip J.W. Moll, Andrew P. Mackenzie<br/>
-arXiv:2503.218589<br/>
-[PDF]({{ site.url }}/papers/2503.218589v1.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2503.218589) &nbsp; &nbsp;
+arXiv:2503.21858<br/>
+[PDF]({{ site.url }}/papers/2503.21858v1.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2503.21858) &nbsp; &nbsp;
 
 
 **Extended Fractional Chern Insulators Near Half Flux in Twisted Bilayer Graphene Above the Magic Angle**<br/>
