@@ -12,6 +12,13 @@ output:
 <div class="year-border" markdown="1">
 ## Preprints
 
+**Size-restricted magnetotransport in the delafossite metals PdCoO2 and PtCoO2**<br/>
+Michal Moravec, Graham Baker, Maja D. Bachmann, Aaron L. Sharpe, Nabhanila Nandi, Arthur W. Barnard, Carsten Putzke, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Philip J.W. Moll, Andrew P. Mackenzie<br/>
+arXiv:2503.218589<br/>
+[PDF]({{ site.url }}/papers/2503.218589v1.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2503.218589) &nbsp; &nbsp;
+
+
 **Extended Fractional Chern Insulators Near Half Flux in Twisted Bilayer Graphene Above the Magic Angle**<br/>
 Joe Finney, Aaron L. Sharpe, Linsey K. Rodenbach, Jian Kang, Xiaoyu Wang, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Oskar Vafek, David Goldhaber-Gordon<br/>
 arXiv:2403.12901<br/>
