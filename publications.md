@@ -27,9 +27,10 @@ arXiv:2403.12901<br/>
 
 **Automated Tabletop Exfoliation and Identification of Monolayer Graphene Flakes**<br/>
 Elijah Courtney, Mihir Pendharkar, Nathan J. Bittner, Aaron L. Sharpe, David Goldhaber-Gordon<br/>
-arXiv:2403.12901<br/>
+Rev. Sci. Instrum. 96, 053907 (2025)<br/>
 [PDF]({{ site.url }}/papers/2403.12901.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2403.12901) &nbsp; &nbsp;
+[RSI](https://doi.org/10.1063/5.0255656) &nbsp; &nbsp;
 
 </div>
 
