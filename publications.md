@@ -25,18 +25,18 @@ arXiv:2403.12901<br/>
 [PDF]({{ site.url }}/papers/2503.12819v1.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2503.12819) &nbsp; &nbsp;
 
+</div>
+
+
+<div class="year-border" markdown="1">
+## 2025
+
 **Automated Tabletop Exfoliation and Identification of Monolayer Graphene Flakes**<br/>
 Elijah Courtney, Mihir Pendharkar, Nathan J. Bittner, Aaron L. Sharpe, David Goldhaber-Gordon<br/>
 Rev. Sci. Instrum. 96, 053907 (2025)<br/>
 [PDF]({{ site.url }}/papers/2403.12901.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2403.12901) &nbsp; &nbsp;
 [RSI](https://doi.org/10.1063/5.0255656) &nbsp; &nbsp;
-
-</div>
-
-
-<div class="year-border" markdown="1">
-## 2025
 
 **Topological bands and correlated states in helical trilayer graphene**<br/>
 Li-Qiao Xia, Sergio C. de la Barrera, Aviram Uri, Aaron L. Sharpe, Yves H. Kwan, Ziyan Zhu, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Liang Fu, Trithep Devakul, and Pablo Jarillo-Herrero<br/>
