@@ -13,7 +13,7 @@ APS March Meeting, Anaheim, CA (03/17/2025)\
 McMillan Award Colloquium, UIUC (10/02/2024)\
 [PDF]({{ site.url }}/presentations/mcmillan_split.pdf) &nbsp; &nbsp;
 
-**Field-stabilized Chern insulator in magic-angle helical trilayer graphene**\
+**Magnetism in moiré heterostructures**\
 EPiQS Postdoctoral Symposium, Salt Lake City, UT (06/04/2024)\
 [PDF]({{ site.url }}/presentations/2406_epiqs_split.pdf) &nbsp; &nbsp;
 
