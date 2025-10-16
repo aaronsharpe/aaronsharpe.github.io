@@ -19,7 +19,7 @@ arXiv:2509.03583<br/>
 [arXiv](https://arxiv.org/abs/2509.07977) &nbsp; &nbsp;
 
 
-**Topological bands and correlated states in helical trilayer graphene**<br/>
+**Magic continuum in multi-moiré twisted trilayer graphene**<br/>
 Li-Qiao Xia\*, Aviram Uri\*, Jiaoji Yan\*, Aaron Sharpe\*, Filippo Gaggioli, Nicole S. Ticea, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Liang Fu, Trithep Devakul, Jurgen H. Smet, and Pablo Jarillo-Herrero<br/>
 arXiv:2509.03583<br/>
 [PDF]({{ site.url }}/papers/2509.03583v1.pdf) &nbsp; &nbsp;
@@ -233,3 +233,5 @@ Phys. Rev. Lett. 109, 074301 (2012)<br/>
 [PDF]({{ site.url }}/papers/leidenfrost.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/1202.2157) &nbsp; &nbsp;
 [PRL](https://link.aps.org/doi/10.1103/PhysRevLett.109.074301)
+
+</div>
