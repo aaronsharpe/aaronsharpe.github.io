@@ -8,6 +8,7 @@ output:
   pdf_document: default
 ---
 
+Learn more about my work at my group's site: [sharpelab.science](https://sharpelab.science)
 
 # Additional resources
 
