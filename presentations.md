@@ -5,6 +5,10 @@ permalink: "/presentations/"
 order: 4
 ---
 
+**Quantum Electronic Phases in Twisted Trilayer Graphene**\
+UCSD, San Diego, CA (10/29/2025)\
+[PDF]({{ site.url }}/presentations/UCSD_split.pdf) &nbsp; &nbsp;
+
 **Extended Fractional Chern Insulator Near Half Flux in Twisted Bilayer Graphene Above the Magic Angle**\
 APS March Meeting, Anaheim, CA (03/17/2025)\
 [PDF]({{ site.url }}/presentations/MM25_split.pdf) &nbsp; &nbsp;
