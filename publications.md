@@ -34,7 +34,7 @@ arXiv:2503.21858<br/>
 
 **Extended Fractional Chern Insulators Near Half Flux in Twisted Bilayer Graphene Above the Magic Angle**<br/>
 Joe Finney\*, Aaron Sharpe\*, Linsey K. Rodenbach, Jian Kang, Xiaoyu Wang, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Oskar Vafek, David Goldhaber-Gordon<br/>
-arXiv:2403.12901<br/>
+arXiv:2503.12901<br/>
 [PDF]({{ site.url }}/papers/2503.12819v1.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2503.12819) &nbsp; &nbsp;
 
