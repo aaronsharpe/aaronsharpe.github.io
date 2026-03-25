@@ -12,6 +12,12 @@ output:
 <div class="year-border" markdown="1">
 ## Preprints
 
+**Electrically controllable valence-conduction band reversals in helical trilayer graphene**<br/>
+Matan Bocarsly, Indranil Roy, Weifeng Zhi, Li-Qiao Xia, Aviram Uri, Yves H. Kwan, Aaron Sharpe, Matan Uzan, Yuri Myasoedov, Kenji Watanabe, Takashi Taniguchi, Trithep Devakul, Pablo Jarillo-Herrero, and Eli Zeldov<br/>
+arXiv:2603.21973<br/>
+[PDF]({{ site.url }}/papers/2603.21973v1.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2603.21973) &nbsp; &nbsp;
+
 **Linking thermodynamic correlation signatures and superconductivity in twisted trilayer graphene**<br/>
 Jesse C. Hoke, Yifan Li, Yuwen Hu, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Trithep Devakul, Aaron Sharpe, Benjamin E. Feldman<br/>
 arXiv:2509.03583<br/>
