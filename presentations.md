@@ -5,6 +5,10 @@ permalink: "/presentations/"
 order: 4
 ---
 
+**Extended Fractional Chern Insulator at High Magnetic Field in Twisted Bilayer Graphene Above the Magic Angle**\
+APS March Meeting, Denver, CO (03/20/2026)\
+[PDF]({{ site.url }}/presentations/march_meeting_2026.pdf) &nbsp; &nbsp;
+
 **Quantum Electronic Phases in Twisted Trilayer Graphene**\
 UW, Seatle, WA (2/23/2026)\
 [PDF]({{ site.url }}/presentations/UW_split.pdf) &nbsp; &nbsp;
