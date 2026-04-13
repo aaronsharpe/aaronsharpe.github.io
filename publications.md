@@ -12,6 +12,12 @@ output:
 <div class="year-border" markdown="1">
 ## Preprints
 
+**Mesoscopic transport in a Chern mosaic**<br/>
+Sayak Bhattacharjee, Julian May-Mann, Yves H. Kwan, Trithep Devakul, Aaron Sharpe<br/>
+arXiv:2604.08654<br/>
+[PDF]({{ site.url }}/papers/2604.08654v1.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2604.08654) &nbsp; &nbsp;
+
 **Electrically controllable valence-conduction band reversals in helical trilayer graphene**<br/>
 Matan Bocarsly, Indranil Roy, Weifeng Zhi, Li-Qiao Xia, Aviram Uri, Yves H. Kwan, Aaron Sharpe, Matan Uzan, Yuri Myasoedov, Kenji Watanabe, Takashi Taniguchi, Trithep Devakul, Pablo Jarillo-Herrero, and Eli Zeldov<br/>
 arXiv:2603.21973<br/>
