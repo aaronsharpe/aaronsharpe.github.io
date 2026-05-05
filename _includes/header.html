@@ -23,8 +23,11 @@
 		  {% assign sorted_pages = site.pages | sort:"order" %}
 		  {% for node in sorted_pages %}
             {%- assign my_page = node -%}
-            {%- if my_page.title -%}
+            {%- if my_page.title and my_page.hide_from_nav != true -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {%- if my_page.order == 1 -%}
+              <a class="page-link" href="https://sharpelab.science">Group</a>
+              {%- endif -%}
             {%- endif -%}
           {%- endfor -%}
         </div>

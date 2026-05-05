@@ -3,6 +3,7 @@ layout: default
 title: "Research"
 permalink: "/research/"
 order: 2
+hide_from_nav: true
 output:
   html_document: default
   pdf_document: default
