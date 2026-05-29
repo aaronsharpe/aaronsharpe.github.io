@@ -12,6 +12,12 @@ output:
 <div class="year-border" markdown="1">
 ## Preprints
 
+**Visualizing orbital magnetism in electron doped rhombohedral multilayer graphene**<br/>
+Owen I. Sheekey, Trevor B. Arp, Benjamin A. Foutty, Ruoxi Zhang, Tixuan Tan, Ludwig F. W. Holleis, Yi Guo, Sandesh S. Kalantre, Canxun Zhang, Mark Zakharyan, David Gong, Aidan Keough, Youngjoon Choi, Ysun Choi, Siyuan Xu, Tian Xie, Ben Hodder Alexander, Marisa Hocking, Qingrui Cao, Martin E. Huber, Takashi Taniguchi, Kenji Watanabe, Chenhao Jin, Etienne Lantagne-Hurtubise, Aaron Sharpe, Trithep Devakul, Andrea F. Young<br/>
+arXiv:2605.30316<br/>
+[PDF]({{ site.url }}/papers/2605.30316v1.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2605.30316) &nbsp; &nbsp;
+
 **Mesoscopic transport in a Chern mosaic**<br/>
 Sayak Bhattacharjee, Julian May-Mann, Yves H. Kwan, Trithep Devakul, Aaron Sharpe<br/>
 arXiv:2604.08654<br/>
