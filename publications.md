@@ -12,6 +12,12 @@ output:
 <div class="year-border" markdown="1">
 ## Preprints
 
+**Fermiology and the Candidate Chiral Superconductor in Rhombohedral Tetralayer Graphene**<br/>
+Sandesh S. Kalantre, Ben H. Alexander, Julian May-Mann, Jonah Herzog-Arbeitman, Marisa Hocking, Qingrui Cao, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Andrew J. Mannix, Trithep Devakul, Yves H. Kwan, Daniel E. Parker, Aaron Sharpe<br/>
+arXiv:2606.05356<br/>
+[PDF]({{ site.url }}/papers/2606.05356v1.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2606.05356) &nbsp; &nbsp;
+
 **Visualizing orbital magnetism in electron doped rhombohedral multilayer graphene**<br/>
 Owen I. Sheekey, Trevor B. Arp, Benjamin A. Foutty, Ruoxi Zhang, Tixuan Tan, Ludwig F. W. Holleis, Yi Guo, Sandesh S. Kalantre, Canxun Zhang, Mark Zakharyan, David Gong, Aidan Keough, Youngjoon Choi, Ysun Choi, Siyuan Xu, Tian Xie, Ben Hodder Alexander, Marisa Hocking, Qingrui Cao, Martin E. Huber, Takashi Taniguchi, Kenji Watanabe, Chenhao Jin, Etienne Lantagne-Hurtubise, Aaron Sharpe, Trithep Devakul, Andrea F. Young<br/>
 arXiv:2605.30316<br/>
@@ -43,18 +49,24 @@ arXiv:2509.03583<br/>
 [PDF]({{ site.url }}/papers/2509.03583v1.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2509.03583) &nbsp; &nbsp;
 
-**Size-restricted magnetotransport in the delafossite metals PdCoO2 and PtCoO2**<br/>
-Michal Moravec, Graham Baker, Maja D. Bachmann, Aaron Sharpe, Nabhanila Nandi, Arthur W. Barnard, Carsten Putzke, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Philip J.W. Moll, Andrew P. Mackenzie<br/>
-arXiv:2503.21858<br/>
-[PDF]({{ site.url }}/papers/2503.21858v1.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2503.21858) &nbsp; &nbsp;
-
-
 **Extended Fractional Chern Insulators Near Half Flux in Twisted Bilayer Graphene Above the Magic Angle**<br/>
 Joe Finney\*, Aaron Sharpe\*, Linsey K. Rodenbach, Jian Kang, Xiaoyu Wang, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Oskar Vafek, David Goldhaber-Gordon<br/>
 arXiv:2503.12901<br/>
 [PDF]({{ site.url }}/papers/2503.12819v1.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2503.12819) &nbsp; &nbsp;
+
+</div>
+
+
+<div class="year-border" markdown="1">
+## 2026
+
+**Directional ballistic magnetotransport in the delafossite metals PdCoO2 and PtCoO2**<br/>
+Michal Moravec, Graham Baker, Maja D. Bachmann, Aaron Sharpe, Nabhanila Nandi, Arthur W. Barnard, Carsten Putzke, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Philip J. W. Moll, Andrew P. Mackenzie<br/>
+npj Quantum Materials 11, 44 (2026)<br/>
+[PDF]({{ site.url }}/papers/2503.21858v1.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2503.21858) &nbsp; &nbsp;
+[npj QM](https://www.nature.com/articles/s41535-026-00872-w) &nbsp; &nbsp;
 
 </div>
 
