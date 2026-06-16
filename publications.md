@@ -36,13 +36,6 @@ arXiv:2603.21973<br/>
 [PDF]({{ site.url }}/papers/2603.21973v1.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2603.21973) &nbsp; &nbsp;
 
-**Linking thermodynamic correlation signatures and superconductivity in twisted trilayer graphene**<br/>
-Jesse C. Hoke, Yifan Li, Yuwen Hu, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Trithep Devakul, Aaron Sharpe, Benjamin E. Feldman<br/>
-arXiv:2509.03583<br/>
-[PDF]({{ site.url }}/papers/2509.07977v1.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2509.07977) &nbsp; &nbsp;
-
-
 **Magic continuum in multi-moiré twisted trilayer graphene**<br/>
 Li-Qiao Xia\*, Aviram Uri\*, Jiaoji Yan\*, Aaron Sharpe\*, Filippo Gaggioli, Nicole S. Ticea, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Liang Fu, Trithep Devakul, Jurgen H. Smet, and Pablo Jarillo-Herrero<br/>
 arXiv:2509.03583<br/>
@@ -60,6 +53,13 @@ arXiv:2503.12901<br/>
 
 <div class="year-border" markdown="1">
 ## 2026
+
+**Link between thermodynamic correlation signatures and superconductivity in twisted trilayer graphene**<br/>
+Jesse C. Hoke, Yifan Li, Yuwen Hu, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Trithep Devakul, Aaron Sharpe, Benjamin E. Feldman<br/>
+Nature Nanotechnology (2026)<br/>
+[PDF]({{ site.url }}/papers/2509.07977v1.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2509.07977) &nbsp; &nbsp;
+[Nat. Nanotechnol.](https://www.nature.com/articles/s41565-026-02155-8) &nbsp; &nbsp;
 
 **Directional ballistic magnetotransport in the delafossite metals PdCoO2 and PtCoO2**<br/>
 Michal Moravec, Graham Baker, Maja D. Bachmann, Aaron Sharpe, Nabhanila Nandi, Arthur W. Barnard, Carsten Putzke, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Philip J. W. Moll, Andrew P. Mackenzie<br/>
