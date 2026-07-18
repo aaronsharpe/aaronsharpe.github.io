@@ -56,7 +56,7 @@ arXiv:2503.12901<br/>
 
 **Link between thermodynamic correlation signatures and superconductivity in twisted trilayer graphene**<br/>
 Jesse C. Hoke, Yifan Li, Yuwen Hu, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Trithep Devakul, Aaron Sharpe, Benjamin E. Feldman<br/>
-Nature Nanotechnology (2026)<br/>
+Nature Nanotechnology 21, 772–778 (2026)<br/>
 [PDF]({{ site.url }}/papers/2509.07977v1.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2509.07977) &nbsp; &nbsp;
 [Nat. Nanotechnol.](https://www.nature.com/articles/s41565-026-02155-8) &nbsp; &nbsp;
