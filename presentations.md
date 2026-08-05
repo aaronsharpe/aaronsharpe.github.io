@@ -5,6 +5,10 @@ permalink: "/presentations/"
 order: 4
 ---
 
+**A Multitone Mystery: Normal-State Fermiology of the Candidate Chiral Superconductor in Rhombohedral Graphene**\
+University of Minnesota, Minneapolis, MN (08/2026)\
+[PDF]({{ site.url }}/presentations/2608_minnesota.pdf) &nbsp; &nbsp;
+
 **Extended Fractional Chern Insulator at High Magnetic Field in Twisted Bilayer Graphene Above the Magic Angle**\
 APS March Meeting, Denver, CO (03/20/2026)\
 [PDF]({{ site.url }}/presentations/march_meeting_2026.pdf) &nbsp; &nbsp;
