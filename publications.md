@@ -12,6 +12,12 @@ output:
 <div class="year-border" markdown="1">
 ## Preprints
 
+**Quantized Transport through a Supermoiré Chern Mosaic**<br/>
+Li-Qiao Xia\*, Aviram Uri\*, Zachary W. Gomez, Molly P. Andersen, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Trithep Devakul, Yves H. Kwan, Pablo Jarillo-Herrero, Aaron Sharpe<br/>
+arXiv:2608.26252<br/>
+[PDF]({{ site.url }}/papers/2608.26252v1.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2608.26252) &nbsp; &nbsp;
+
 **Fermiology and the Candidate Chiral Superconductor in Rhombohedral Tetralayer Graphene**<br/>
 Sandesh S. Kalantre, Ben H. Alexander, Julian May-Mann, Jonah Herzog-Arbeitman, Marisa Hocking, Qingrui Cao, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Andrew J. Mannix, Trithep Devakul, Yves H. Kwan, Daniel E. Parker, Aaron Sharpe<br/>
 arXiv:2606.05356<br/>
