@@ -6,6 +6,10 @@ order: 4
 ---
 
 **A Multitone Mystery: Normal-State Fermiology of the Candidate Chiral Superconductor in Rhombohedral Graphene**\
+Emory University, Atlanta, GA (09/01/2026)\
+[PDF]({{ site.url }}/presentations/2609_emory.pdf) &nbsp; &nbsp;
+
+**A Multitone Mystery: Normal-State Fermiology of the Candidate Chiral Superconductor in Rhombohedral Graphene**\
 University of Minnesota, Minneapolis, MN (08/06/2026)\
 [PDF]({{ site.url }}/presentations/2608_minnesota.pdf) &nbsp; &nbsp;
 
