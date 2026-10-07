@@ -48,17 +48,18 @@ arXiv:2509.03583<br/>
 [PDF]({{ site.url }}/papers/2509.03583v1.pdf) &nbsp; &nbsp;
 [arXiv](https://arxiv.org/abs/2509.03583) &nbsp; &nbsp;
 
-**Extended Fractional Chern Insulators Near Half Flux in Twisted Bilayer Graphene Above the Magic Angle**<br/>
-Joe Finney\*, Aaron Sharpe\*, Linsey K. Rodenbach, Jian Kang, Xiaoyu Wang, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Oskar Vafek, David Goldhaber-Gordon<br/>
-arXiv:2503.12901<br/>
-[PDF]({{ site.url }}/papers/2503.12819v1.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2503.12819) &nbsp; &nbsp;
-
 </div>
 
 
 <div class="year-border" markdown="1">
 ## 2026
+
+**Extended Fractional Hofstadter States at High Field in Twisted Bilayer Graphene Above the Magic Angle**<br/>
+Joe Finney\*, Aaron Sharpe\*, Linsey K. Rodenbach, Jian Kang, Xiaoyu Wang, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Oskar Vafek, David Goldhaber-Gordon<br/>
+PNAS 123, e2602080123 (2026)<br/>
+[PDF]({{ site.url }}/papers/2503.12819v1.pdf) &nbsp; &nbsp;
+[arXiv](https://arxiv.org/abs/2503.12819) &nbsp; &nbsp;
+[PNAS](https://doi.org/10.1073/pnas.2602080123) &nbsp; &nbsp;
 
 **Link between thermodynamic correlation signatures and superconductivity in twisted trilayer graphene**<br/>
 Jesse C. Hoke, Yifan Li, Yuwen Hu, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Trithep Devakul, Aaron Sharpe, Benjamin E. Feldman<br/>
